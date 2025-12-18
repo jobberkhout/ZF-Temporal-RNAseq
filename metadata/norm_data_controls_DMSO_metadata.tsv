@@ -1,0 +1,21 @@
+sample_id	tube_number	compound_code	compound_full	dose_code	dose_uM	timepoint_code	dev_stage_name	experiment_date	collection_start	collection_end	cross_date	replicate	vehicle_type	control_pair_id	will_sequence	tissue_type	embryo_count	buffer_lot	rna_extraction_batch	rna_integrity_number	library_prep_batch	library_prep_kit	seq_platform	read_type	lane	fastq_1	fastq_2	md5_fastq_1	md5_fastq_2	genotype	vehicle_type.1	tank_id	notes	analysis_include	_veh	_ord
+109-0402-T1-CTRL-DM	109	CTRL	Control	C	0	T1	Bud stage	2025/04/02			2025/04/01	2	DMSO	109-0402-T1-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	1
+249-1505-T1-CTRL-DM	249	CTRL	Control	C	0	T1	Bud stage	2025/05/15			2025/05/14	3	DMSO	249-1505-T1-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	1
+284-2005-T1-CTRL-DM	284	CTRL	Control	C	0	T1	Bud stage	2025/05/20			2025/05/19	4	DMSO	284-2005-T1-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	1
+74-0227-T1-CTRL-DM	74	CTRL	Control	C	0	T1	Bud stage	2025/02/27			2025/02/26	1	DMSO	74-0227-T1-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	1
+116-0402-T2-CTRL-DM	116	CTRL	Control	C	0	T2	5-8 somite	2025/04/02			2025/04/01	2	DMSO	116-0402-T2-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	2
+256-1505-T2-CTRL-DM	256	CTRL	Control	C	0	T2	5-8 somite	2025/05/15			2025/05/14	3	DMSO	256-1505-T2-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	2
+291-2005-T2-CTRL-DM	291	CTRL	Control	C	0	T2	5-8 somite	2025/05/20			2025/05/19	4	DMSO	291-2005-T2-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	2
+81-0227-T2-CTRL-DM	81	CTRL	Control	C	0	T2	5-8 somite	2025/02/27			2025/02/26	1	DMSO	81-0227-T2-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	2
+123-0402-T3-CTRL-DM	123	CTRL	Control	C	0	T3	11-14 somite	2025/04/02			2025/04/01	2	DMSO	123-0402-T3-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	3
+263-1505-T3-CTRL-DM	263	CTRL	Control	C	0	T3	11-14 somite	2025/05/15			2025/05/14	3	DMSO	263-1505-T3-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	3
+298-2005-T3-CTRL-DM	298	CTRL	Control	C	0	T3	11-14 somite	2025/05/20			2025/05/19	4	DMSO	298-2005-T3-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	3
+88-0227-T3-CTRL-DM	88	CTRL	Control	C	0	T3	11-14 somite	2025/02/27			2025/02/26	1	DMSO	88-0227-T3-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	3
+130-0402-T4-CTRL-DM	130	CTRL	Control	C	0	T4	18-21 somite	2025/04/02			2025/04/01	2	DMSO	130-0402-T4-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	4
+270-1505-T4-CTRL-DM	270	CTRL	Control	C	0	T4	18-21 somite	2025/05/15			2025/05/14	3	DMSO	270-1505-T4-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	4
+305-2005-T4-CTRL-DM	305	CTRL	Control	C	0	T4	18-21 somite	2025/05/20			2025/05/19	4	DMSO	305-2005-T4-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	4
+95-0227-T4-CTRL-DM	95	CTRL	Control	C	0	T4	18-21 somite	2025/02/27			2025/02/26	1	DMSO	95-0227-T4-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	4
+102-0227-T5-CTRL-DM	102	CTRL	Control	C	0	T5	24 hpf	2025/02/27			2025/02/26	1	DMSO	102-0227-T5-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	5
+137-0402-T5-CTRL-DM	137	CTRL	Control	C	0	T5	24 hpf	2025/04/02			2025/04/01	2	DMSO	137-0402-T5-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	5
+277-1505-T5-CTRL-DM	277	CTRL	Control	C	0	T5	24 hpf	2025/05/15			2025/05/14	3	DMSO	277-1505-T5-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	5
+312-2005-T5-CTRL-DM	312	CTRL	Control	C	0	T5	24 hpf	2025/05/20			2025/05/19	4	DMSO	312-2005-T5-CTRL-DM	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	DMSO	5

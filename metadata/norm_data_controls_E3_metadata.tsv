@@ -1,0 +1,21 @@
+sample_id	tube_number	compound_code	compound_full	dose_code	dose_uM	timepoint_code	dev_stage_name	experiment_date	collection_start	collection_end	cross_date	replicate	vehicle_type	control_pair_id	will_sequence	tissue_type	embryo_count	buffer_lot	rna_extraction_batch	rna_integrity_number	library_prep_batch	library_prep_kit	seq_platform	read_type	lane	fastq_1	fastq_2	md5_fastq_1	md5_fastq_2	genotype	vehicle_type.1	tank_id	notes	analysis_include	_veh	_ord
+144-0428-T1-E3-CTRL	144	CTRL	Control	C	0	T1	Bud stage	2025/04/28			2025/04/27	2	E3	144-0428-T1-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	1
+179-0705-T1-E3-CTRL	179	CTRL	Control	C	0	T1	Bud stage	2025/05/07			2025/05/06	3	E3	179-0705-T1-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	1
+214-1305-T1-E3-CTRL	214	CTRL	Control	C	0	T1	Bud stage	2025/05/13			2025/05/12	4	E3	214-1305-T1-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	1
+39-0218-T1-E3-CTRL	39	CTRL	Control	C	0	T1	Bud stage	2025/02/18			2025/02/17	1	E3	39-0218-T1-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	1
+151-0428-T2-E3-CTRL	151	CTRL	Control	C	0	T2	5-8 somite	2025/04/28			2025/04/27	2	E3	151-0428-T2-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	2
+186-0705-T2-E3-CTRL	186	CTRL	Control	C	0	T2	5-8 somite	2025/05/07			2025/05/06	3	E3	186-0705-T2-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	2
+221-1305-T2-E3-CTRL	221	CTRL	Control	C	0	T2	5-8 somite	2025/05/13			2025/05/12	4	E3	221-1305-T2-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	2
+46-0218-T2-E3-CTRL	46	CTRL	Control	C	0	T2	5-8 somite	2025/02/18			2025/02/17	1	E3	46-0218-T2-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	2
+158-0428-T3-E3-CTRL	158	CTRL	Control	C	0	T3	11-14 somite	2025/04/28			2025/04/27	2	E3	158-0428-T3-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	3
+193-0705-T3-E3-CTRL	193	CTRL	Control	C	0	T3	11-14 somite	2025/05/07			2025/05/06	3	E3	193-0705-T3-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	3
+228-1305-T3-E3-CTRL	228	CTRL	Control	C	0	T3	11-14 somite	2025/05/13			2025/05/12	4	E3	228-1305-T3-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	3
+53-0218-T3-E3-CTRL	53	CTRL	Control	C	0	T3	11-14 somite	2025/02/18			2025/02/17	1	E3	53-0218-T3-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	3
+165-0428-T4-E3-CTRL	165	CTRL	Control	C	0	T4	18-21 somite	2025/04/28			2025/04/27	2	E3	165-0428-T4-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	4
+200-0705-T4-E3-CTRL	200	CTRL	Control	C	0	T4	18-21 somite	2025/05/07			2025/05/06	3	E3	200-0705-T4-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	4
+235-1305-T4-E3-CTRL	235	CTRL	Control	C	0	T4	18-21 somite	2025/05/13			2025/05/12	4	E3	235-1305-T4-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	4
+60-0218-T4-E3-CTRL	60	CTRL	Control	C	0	T4	18-21 somite	2025/02/18			2025/02/17	1	E3	60-0218-T4-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	4
+172-0428-T5-E3-CTRL	172	CTRL	Control	C	0	T5	24 hpf	2025/04/28			2025/04/27	2	E3	172-0428-T5-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	5
+207-0705-T5-E3-CTRL	207	CTRL	Control	C	0	T5	24 hpf	2025/05/07			2025/05/06	3	E3	207-0705-T5-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	5
+242-1305-T5-E3-CTRL	242	CTRL	Control	C	0	T5	24 hpf	2025/05/13			2025/05/12	4	E3	242-1305-T5-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	5
+67-0218-T5-E3-CTRL	67	CTRL	Control	C	0	T5	24 hpf	2025/02/18			2025/02/17	1	E3	67-0218-T5-E3-CTRL	yes	Zebrafish Embryo	30	qiagen_RLT_plus_178034138																	E3	5

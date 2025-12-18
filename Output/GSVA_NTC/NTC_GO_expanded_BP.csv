@@ -1,0 +1,1981 @@
+"GOID","TERM","ONTOLOGY","Source","SYNONYMS"
+"GO:0070060","'de novo' actin filament nucleation","BP","offspring",NA
+"GO:0042904","9-cis-retinoic acid biosynthetic process","BP","keyword,offspring",NA
+"GO:0042905","9-cis-retinoic acid metabolic process","BP","keyword,offspring",NA
+"GO:0097113","AMPA glutamate receptor clustering","BP","offspring",NA
+"GO:0086072","AV node cell-bundle of His cell adhesion involved in cell communication","BP","offspring",NA
+"GO:0034314","Arp2/3 complex-mediated actin nucleation","BP","offspring",NA
+"GO:0097323","B cell adhesion","BP","offspring",NA
+"GO:0038055","BMP secretion","BP","keyword",NA
+"GO:0030509","BMP signaling pathway","BP","broad_pathway,keyword,seed",NA
+"GO:0035783","CD4-positive, alpha-beta T cell costimulation","BP","offspring",NA
+"GO:0032488","Cdc42 protein signal transduction","BP","keyword,offspring",NA
+"GO:0038127","ERBB signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0038128","ERBB2 signaling pathway","BP","broad_pathway",NA
+"GO:0038134","ERBB2-EGFR signaling pathway","BP","broad_pathway",NA
+"GO:0038133","ERBB2-ERBB3 signaling pathway","BP","broad_pathway",NA
+"GO:0038135","ERBB2-ERBB4 signaling pathway","BP","broad_pathway",NA
+"GO:0038129","ERBB3 signaling pathway","BP","broad_pathway",NA
+"GO:0038136","ERBB3-ERBB4 signaling pathway","BP","broad_pathway",NA
+"GO:0038130","ERBB4 signaling pathway","BP","broad_pathway",NA
+"GO:0038137","ERBB4-EGFR signaling pathway","BP","broad_pathway",NA
+"GO:0038138","ERBB4-ERBB4 signaling pathway","BP","broad_pathway",NA
+"GO:1990690","Golgi medial cisterna-derived vesicle fusion with Golgi cis cisterna membrane","BP","keyword",NA
+"GO:0036504","Golgi membrane fusion","BP","keyword",NA
+"GO:0048210","Golgi vesicle fusion to target membrane","BP","keyword",NA
+"GO:1990688","Golgi vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane","BP","keyword",NA
+"GO:0061332","Malpighian tubule bud morphogenesis","BP","offspring",NA
+"GO:0007443","Malpighian tubule morphogenesis","BP","offspring",NA
+"GO:0097114","NMDA glutamate receptor clustering","BP","offspring",NA
+"GO:0007220","Notch receptor processing","BP","keyword",NA
+"GO:0035333","Notch receptor processing, ligand-dependent","BP","keyword",NA
+"GO:0035334","Notch receptor processing, ligand-independent","BP","keyword",NA
+"GO:0061314","Notch signaling involved in heart development","BP","keyword",NA
+"GO:0007219","Notch signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0060853","Notch signaling pathway involved in arterial endothelial cell fate commitment","BP","broad_pathway,keyword",NA
+"GO:0060227","Notch signaling pathway involved in camera-type eye photoreceptor fate commitment","BP","broad_pathway,keyword",NA
+"GO:0021876","Notch signaling pathway involved in forebrain neuroblast division","BP","broad_pathway,keyword",NA
+"GO:2000796","Notch signaling pathway involved in negative regulation of venous endothelial cell fate commitment","BP","broad_pathway,keyword",NA
+"GO:0003270","Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation","BP","broad_pathway,keyword",NA
+"GO:1902359","Notch signaling pathway involved in somitogenesis","BP","broad_pathway,keyword",NA
+"GO:0086074","Purkinje myocyte-ventricular cardiac muscle cell adhesion involved in cell communication","BP","offspring",NA
+"GO:0007464","R3/R4 cell fate commitment","BP","offspring",NA
+"GO:0007266","Rho protein signal transduction","BP","seed",NA
+"GO:0086022","SA node cell-atrial cardiac muscle cell adhesion involved in cell communication","BP","offspring",NA
+"GO:0060395","SMAD protein signal transduction","BP","keyword",NA
+"GO:0014044","Schwann cell development","BP","offspring",NA
+"GO:0014037","Schwann cell differentiation","BP","seed",NA
+"GO:0070489","T cell aggregation","BP","offspring",NA
+"GO:0031295","T cell costimulation","BP","offspring",NA
+"GO:0038190","VEGF-activated neuropilin signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1902378","VEGF-activated neuropilin signaling pathway involved in axon guidance","BP","broad_pathway,keyword",NA
+"GO:0038086","VEGF-activated platelet-derived growth factor receptor signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0038087","VEGF-activated platelet-derived growth factor receptor-alpha signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0038088","VEGF-activated platelet-derived growth factor receptor-beta signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0061355","Wnt protein secretion","BP","keyword",NA
+"GO:0038018","Wnt receptor catabolic process","BP","keyword",NA
+"GO:0038017","Wnt receptor internalization","BP","keyword",NA
+"GO:0038019","Wnt receptor recycling","BP","keyword",NA
+"GO:0016055","Wnt signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0021874","Wnt signaling pathway involved in forebrain neuroblast division","BP","broad_pathway,keyword",NA
+"GO:0003306","Wnt signaling pathway involved in heart development","BP","broad_pathway,keyword",NA
+"GO:0090244","Wnt signaling pathway involved in somitogenesis","BP","broad_pathway,keyword",NA
+"GO:0007223","Wnt signaling pathway, calcium modulating pathway","BP","broad_pathway,keyword",NA
+"GO:0060071","Wnt signaling pathway, planar cell polarity pathway","BP","broad_pathway,keyword,seed",NA
+"GO:0060069","Wnt signaling pathway, regulating spindle positioning","BP","broad_pathway,keyword,offspring",NA
+"GO:1904887","Wnt signalosome assembly","BP","keyword",NA
+"GO:1904701","Wnt-Frizzled-LRP5/6 complex assembly","BP","keyword",NA
+"GO:0000147","actin cortical patch assembly","BP","offspring",NA
+"GO:0044396","actin cortical patch organization","BP","offspring",NA
+"GO:0051764","actin crosslink formation","BP","offspring",NA
+"GO:0030036","actin cytoskeleton organization","BP","seed",NA
+"GO:0090135","actin filament branching","BP","offspring",NA
+"GO:0051017","actin filament bundle assembly","BP","offspring",NA
+"GO:0090426","actin filament bundle convergence","BP","offspring",NA
+"GO:0070650","actin filament bundle distribution","BP","offspring",NA
+"GO:0061572","actin filament bundle organization","BP","offspring",NA
+"GO:0061573","actin filament bundle retrograde transport","BP","offspring",NA
+"GO:0051693","actin filament capping","BP","offspring",NA
+"GO:0030042","actin filament depolymerization","BP","offspring",NA
+"GO:0030043","actin filament fragmentation","BP","offspring",NA
+"GO:0051639","actin filament network formation","BP","offspring",NA
+"GO:0007015","actin filament organization","BP","offspring",NA
+"GO:0030041","actin filament polymerization","BP","offspring",NA
+"GO:0051695","actin filament uncapping","BP","offspring",NA
+"GO:0030047","actin modification","BP","offspring",NA
+"GO:0045010","actin nucleation","BP","offspring",NA
+"GO:0008154","actin polymerization or depolymerization","BP","offspring",NA
+"GO:0031247","actin rod assembly","BP","offspring",NA
+"GO:0007014","actin ubiquitination","BP","offspring",NA
+"GO:1990974","actin-dependent nuclear migration","BP","keyword,offspring",NA
+"GO:0090064","activation of microtubule nucleation","BP","offspring",NA
+"GO:0071519","actomyosin contractile ring actin filament bundle assembly","BP","keyword,offspring",NA
+"GO:0000915","actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:0071520","actomyosin contractile ring assembly actin filament bundle convergence","BP","keyword,offspring",NA
+"GO:2000689","actomyosin contractile ring assembly actin filament organization","BP","keyword,offspring",NA
+"GO:0000916","actomyosin contractile ring contraction","BP","keyword,offspring",NA
+"GO:0031566","actomyosin contractile ring maturation","BP","keyword,offspring",NA
+"GO:0044837","actomyosin contractile ring organization","BP","keyword,offspring",NA
+"GO:0031032","actomyosin structure organization","BP","keyword,offspring",NA
+"GO:0000754","adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:0034333","adherens junction assembly","BP","keyword,offspring",NA
+"GO:0120179","adherens junction disassembly","BP","keyword,offspring",NA
+"GO:0034334","adherens junction maintenance","BP","keyword,offspring",NA
+"GO:0034332","adherens junction organization","BP","keyword,offspring,seed",NA
+"GO:0098610","adhesion between unicellular organisms","BP","offspring",NA
+"GO:0141018","adhesion of symbiont to host via host extracellular matrix","BP","keyword",NA
+"GO:0000752","agglutination involved in conjugation with cellular fusion","BP","keyword,offspring",NA
+"GO:0000758","agglutination involved in conjugation with mutual genetic exchange","BP","offspring",NA
+"GO:0061911","amphisome-lysosome fusion","BP","keyword",NA
+"GO:0055048","anastral spindle assembly","BP","offspring",NA
+"GO:0009971","anastral spindle assembly involved in male meiosis","BP","offspring",NA
+"GO:0120077","angiogenic sprout fusion","BP","keyword",NA
+"GO:0007441","anterior midgut (ectodermal) morphogenesis","BP","offspring",NA
+"GO:0007375","anterior midgut invagination","BP","offspring",NA
+"GO:0090017","anterior neural plate formation","BP","keyword,offspring",NA
+"GO:0061713","anterior neural tube closure","BP","keyword,offspring,seed",NA
+"GO:0021506","anterior neuropore closure","BP","keyword,offspring,seed",NA
+"GO:0030714","anterior/posterior axis specification, follicular epithelium","BP","offspring",NA
+"GO:0003383","apical constriction","BP","keyword,seed",NA
+"GO:0003384","apical constriction involved in gastrulation","BP","keyword,offspring",NA
+"GO:0110072","apical constriction involved in ventral furrow formation","BP","keyword,offspring",NA
+"GO:0043297","apical junction assembly","BP","offspring",NA
+"GO:0009095","aromatic amino acid family biosynthetic process, prephenate pathway","BP","broad_pathway",NA
+"GO:0031322","ascospore-type prospore-specific spindle pole body remodeling","BP","offspring",NA
+"GO:0000912","assembly of actomyosin apparatus involved in cytokinesis","BP","keyword",NA
+"GO:1902407","assembly of actomyosin apparatus involved in mitotic cytokinesis","BP","keyword",NA
+"GO:0106036","assembly of apicomedial cortex actomyosin","BP","keyword,offspring",NA
+"GO:1990734","astral microtubule anchoring at mitotic spindle pole body","BP","offspring",NA
+"GO:0060172","astral microtubule depolymerization","BP","offspring",NA
+"GO:0030954","astral microtubule nucleation","BP","offspring",NA
+"GO:0030953","astral microtubule organization","BP","offspring",NA
+"GO:0086071","atrial cardiac muscle cell-AV node cell adhesion involved in cell communication","BP","offspring",NA
+"GO:0055004","atrial cardiac myofibril assembly","BP","offspring",NA
+"GO:0061910","autophagosome-endosome fusion","BP","keyword",NA
+"GO:0061909","autophagosome-lysosome fusion","BP","keyword",NA
+"GO:0003401","axis elongation","BP","keyword",NA
+"GO:0090245","axis elongation involved in somitogenesis","BP","keyword",NA
+"GO:0062235","axonemal basal plate assembly","BP","offspring",NA
+"GO:1904158","axonemal central apparatus assembly","BP","offspring",NA
+"GO:0070286","axonemal dynein complex assembly","BP","offspring",NA
+"GO:0060404","axonemal microtubule depolymerization","BP","offspring",NA
+"GO:0120308","axonemal outer doublet assembly","BP","offspring",NA
+"GO:0035082","axoneme assembly","BP","keyword,offspring",NA
+"GO:0044780","bacterial-type flagellum assembly","BP","offspring",NA
+"GO:0051016","barbed-end actin filament capping","BP","offspring",NA
+"GO:0051638","barbed-end actin filament uncapping","BP","offspring",NA
+"GO:0070831","basement membrane assembly","BP","keyword,offspring",NA
+"GO:2001197","basement membrane assembly involved in embryonic body morphogenesis","BP","keyword,offspring",NA
+"GO:0061864","basement membrane constituent secretion","BP","keyword,offspring",NA
+"GO:0034769","basement membrane disassembly","BP","keyword,offspring",NA
+"GO:0060882","basement membrane disassembly involved in semicircular canal fusion","BP","keyword,offspring",NA
+"GO:0071711","basement membrane organization","BP","keyword,offspring,seed",NA
+"GO:0045114","beta 2 integrin biosynthetic process","BP","keyword",NA
+"GO:0070830","bicellular tight junction assembly","BP","keyword,offspring,seed",NA
+"GO:0098785","biofilm matrix assembly","BP","offspring",NA
+"GO:0098786","biofilm matrix disassembly","BP","offspring",NA
+"GO:0098784","biofilm matrix organization","BP","offspring",NA
+"GO:0032060","bleb assembly","BP","offspring",NA
+"GO:0097497","blood vessel endothelial cell delamination","BP","offspring",NA
+"GO:1902354","blood vessel endothelial cell delamination involved in blood vessel lumen ensheathment","BP","offspring",NA
+"GO:0097496","blood vessel lumen ensheathment","BP","offspring",NA
+"GO:0072554","blood vessel lumenization","BP","offspring",NA
+"GO:0030709","border follicle cell delamination","BP","offspring",NA
+"GO:0060751","branch elongation involved in mammary gland duct branching","BP","offspring",NA
+"GO:0060667","branch elongation involved in salivary gland morphogenesis","BP","offspring",NA
+"GO:0060681","branch elongation involved in ureteric bud branching","BP","offspring",NA
+"GO:0060602","branch elongation of an epithelium","BP","offspring",NA
+"GO:0035147","branch fusion, open tracheal system","BP","keyword,offspring",NA
+"GO:0001569","branching involved in blood vessel morphogenesis","BP","offspring",NA
+"GO:0060670","branching involved in labyrinthine layer morphogenesis","BP","offspring",NA
+"GO:0060854","branching involved in lymph vessel morphogenesis","BP","offspring",NA
+"GO:0060655","branching involved in mammary gland cord morphogenesis","BP","offspring",NA
+"GO:0060444","branching involved in mammary gland duct morphogenesis","BP","offspring",NA
+"GO:0060446","branching involved in open tracheal system development","BP","offspring",NA
+"GO:0061114","branching involved in pancreas morphogenesis","BP","offspring",NA
+"GO:0060442","branching involved in prostate gland morphogenesis","BP","offspring",NA
+"GO:0060445","branching involved in salivary gland morphogenesis","BP","offspring",NA
+"GO:0061683","branching involved in seminal vesicle morphogenesis","BP","offspring",NA
+"GO:1990632","branching involved in submandibular gland morphogenesis","BP","offspring",NA
+"GO:0001658","branching involved in ureteric bud morphogenesis","BP","offspring",NA
+"GO:0048754","branching morphogenesis of an epithelial tube","BP","offspring",NA
+"GO:0060503","bud dilation involved in lung branching","BP","offspring",NA
+"GO:0060449","bud elongation involved in lung branching","BP","offspring",NA
+"GO:0061139","bud field specification","BP","offspring",NA
+"GO:0060447","bud outgrowth involved in lung branching","BP","offspring",NA
+"GO:0086073","bundle of His cell-Purkinje myocyte adhesion involved in cell communication","BP","offspring",NA
+"GO:0099502","calcium-dependent activation of synaptic vesicle fusion","BP","keyword",NA
+"GO:0016339","calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules","BP","offspring",NA
+"GO:0016340","calcium-dependent cell-matrix adhesion","BP","offspring",NA
+"GO:0016338","calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules","BP","offspring",NA
+"GO:0007161","calcium-independent cell-matrix adhesion","BP","offspring",NA
+"GO:0060070","canonical Wnt signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0061316","canonical Wnt signaling pathway involved in heart development","BP","broad_pathway,keyword",NA
+"GO:0044338","canonical Wnt signaling pathway involved in mesenchymal stem cell differentiation","BP","broad_pathway,keyword",NA
+"GO:0044336","canonical Wnt signaling pathway involved in negative regulation of apoptotic process","BP","broad_pathway,keyword",NA
+"GO:0044337","canonical Wnt signaling pathway involved in positive regulation of apoptotic process","BP","broad_pathway,keyword",NA
+"GO:0060317","cardiac epithelial to mesenchymal transition","BP","offspring",NA
+"GO:0086042","cardiac muscle cell-cardiac muscle cell adhesion","BP","offspring",NA
+"GO:0071690","cardiac muscle myosin thick filament assembly","BP","offspring",NA
+"GO:0003261","cardiac muscle progenitor cell migration to the midline involved in heart field formation","BP","offspring",NA
+"GO:0071691","cardiac muscle thin filament assembly","BP","offspring",NA
+"GO:0055003","cardiac myofibril assembly","BP","offspring",NA
+"GO:0036036","cardiac neural crest cell delamination","BP","keyword,offspring",NA
+"GO:1900728","cardiac neural crest cell delamination involved in outflow tract morphogenesis","BP","keyword,offspring",NA
+"GO:0061308","cardiac neural crest cell development involved in heart development","BP","keyword,offspring",NA
+"GO:0061309","cardiac neural crest cell development involved in outflow tract morphogenesis","BP","keyword,offspring",NA
+"GO:0061307","cardiac neural crest cell differentiation involved in heart development","BP","keyword,offspring",NA
+"GO:0003253","cardiac neural crest cell migration involved in outflow tract morphogenesis","BP","keyword,offspring",NA
+"GO:0003317","cardioblast cell midline fusion","BP","keyword,offspring",NA
+"GO:0060975","cardioblast migration to the midline involved in heart field formation","BP","offspring",NA
+"GO:0003319","cardioblast migration to the midline involved in heart rudiment formation","BP","offspring",NA
+"GO:0060519","cell adhesion involved in prostatic bud elongation","BP","offspring",NA
+"GO:0033627","cell adhesion mediated by integrin","BP","keyword",NA
+"GO:0061352","cell chemotaxis involved in Malpighian tubule morphogenesis","BP","offspring",NA
+"GO:0061335","cell growth involved in Malpighian tubule morphogenesis","BP","offspring",NA
+"GO:0051524","cell growth mode switching, bipolar to monopolar","BP","offspring",NA
+"GO:0051523","cell growth mode switching, monopolar to bipolar","BP","offspring",NA
+"GO:0034329","cell junction assembly","BP","offspring",NA
+"GO:0150146","cell junction disassembly","BP","offspring",NA
+"GO:0034331","cell junction maintenance","BP","offspring",NA
+"GO:0034330","cell junction organization","BP","seed",NA
+"GO:0003305","cell migration involved in heart jogging","BP","offspring",NA
+"GO:0060518","cell migration involved in prostatic bud elongation","BP","offspring",NA
+"GO:0090248","cell migration involved in somitogenic axis elongation","BP","keyword",NA
+"GO:0061336","cell morphogenesis involved in Malpighian tubule morphogenesis","BP","offspring",NA
+"GO:0000753","cell morphogenesis involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:0060880","cell morphogenesis involved in semicircular canal fusion","BP","keyword",NA
+"GO:0030031","cell projection assembly","BP","seed",NA
+"GO:0021992","cell proliferation involved in neural plate elongation","BP","keyword,offspring",NA
+"GO:0061334","cell rearrangement involved in Malpighian tubule morphogenesis","BP","offspring",NA
+"GO:0070871","cell wall organization involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:0098609","cell-cell adhesion","BP","seed",NA
+"GO:0140039","cell-cell adhesion in response to extracellular stimulus","BP","offspring",NA
+"GO:0003367","cell-cell adhesion involved in ameboidal cell migration","BP","offspring",NA
+"GO:0021832","cell-cell adhesion involved in cerebral cortex tangential migration using cell-cell interactions","BP","offspring",NA
+"GO:0090250","cell-cell adhesion involved in establishment of planar polarity","BP","offspring",NA
+"GO:0070586","cell-cell adhesion involved in gastrulation","BP","offspring",NA
+"GO:0003370","cell-cell adhesion involved in mesendodermal cell migration","BP","offspring",NA
+"GO:0060608","cell-cell adhesion involved in neural tube closure","BP","keyword,offspring,seed",NA
+"GO:0021813","cell-cell adhesion involved in neuronal-glial interactions involved in cerebral cortex radial glia guided migration","BP","offspring",NA
+"GO:0060607","cell-cell adhesion involved in sealing an epithelial fold","BP","offspring",NA
+"GO:0090125","cell-cell adhesion involved in synapse maturation","BP","offspring",NA
+"GO:0044331","cell-cell adhesion mediated by cadherin","BP","keyword,offspring",NA
+"GO:0033631","cell-cell adhesion mediated by integrin","BP","keyword,offspring",NA
+"GO:0098742","cell-cell adhesion via plasma-membrane adhesion molecules","BP","offspring",NA
+"GO:0140253","cell-cell fusion","BP","keyword",NA
+"GO:0007043","cell-cell junction assembly","BP","offspring",NA
+"GO:0150147","cell-cell junction disassembly","BP","offspring",NA
+"GO:0045217","cell-cell junction maintenance","BP","offspring",NA
+"GO:0045216","cell-cell junction organization","BP","offspring,seed",NA
+"GO:0007160","cell-matrix adhesion","BP","seed",NA
+"GO:0003366","cell-matrix adhesion involved in ameboidal cell migration","BP","offspring",NA
+"GO:0003368","cell-matrix adhesion involved in mesendodermal cell migration","BP","offspring",NA
+"GO:0007044","cell-substrate junction assembly","BP","offspring",NA
+"GO:0120180","cell-substrate junction disassembly","BP","offspring",NA
+"GO:0150115","cell-substrate junction organization","BP","offspring",NA
+"GO:0071773","cellular response to BMP stimulus","BP","keyword",NA
+"GO:1904392","cellular response to ciliary neurotrophic factor","BP","keyword",NA
+"GO:0071300","cellular response to retinoic acid","BP","keyword",NA
+"GO:0010215","cellulose microfibril organization","BP","offspring",NA
+"GO:0098534","centriole assembly","BP","offspring",NA
+"GO:0061511","centriole elongation","BP","offspring",NA
+"GO:0007099","centriole replication","BP","offspring",NA
+"GO:0010457","centriole-centriole cohesion","BP","offspring",NA
+"GO:0007098","centrosome cycle","BP","offspring",NA
+"GO:0051298","centrosome duplication","BP","offspring",NA
+"GO:0051299","centrosome separation","BP","offspring",NA
+"GO:0090222","centrosome-templated microtubule nucleation","BP","offspring",NA
+"GO:0003428","chondrocyte intercalation involved in growth plate cartilage morphogenesis","BP","offspring",NA
+"GO:0060710","chorio-allantoic fusion","BP","keyword,offspring",NA
+"GO:0090223","chromatin-templated microtubule nucleation","BP","offspring",NA
+"GO:0032053","ciliary basal body organization","BP","keyword,offspring",NA
+"GO:0120312","ciliary basal body segregation","BP","keyword",NA
+"GO:0097711","ciliary basal body-plasma membrane docking","BP","keyword,offspring",NA
+"GO:0061073","ciliary body morphogenesis","BP","keyword",NA
+"GO:0120273","ciliary centrin arm assembly","BP","keyword,offspring",NA
+"GO:1905352","ciliary necklace assembly","BP","keyword",NA
+"GO:0070120","ciliary neurotrophic factor-mediated signaling pathway","BP","keyword",NA
+"GO:0120311","ciliary pro-basal body maturation","BP","keyword,offspring",NA
+"GO:0060830","ciliary receptor clustering involved in smoothened signaling pathway","BP","keyword,offspring",NA
+"GO:1905353","ciliary transition fiber assembly","BP","keyword",NA
+"GO:1905349","ciliary transition zone assembly","BP","keyword,offspring",NA
+"GO:1905556","ciliary vesicle assembly","BP","keyword",NA
+"GO:0060271","cilium assembly","BP","keyword,offspring,seed",NA
+"GO:0120309","cilium attachment to cell body","BP","keyword,offspring",NA
+"GO:0061523","cilium disassembly","BP","keyword,offspring",NA
+"GO:0003341","cilium movement","BP","keyword",NA
+"GO:0060294","cilium movement involved in cell motility","BP","keyword",NA
+"GO:0003355","cilium movement involved in otolith formation","BP","keyword",NA
+"GO:0001539","cilium or flagellum-dependent cell motility","BP","keyword",NA
+"GO:0044782","cilium organization","BP","keyword,seed",NA
+"GO:0060285","cilium-dependent cell motility","BP","keyword",NA
+"GO:1990691","cis-Golgi-derived vesicle fusion with Golgi medial cisterna membrane","BP","keyword",NA
+"GO:0060884","clearance of cells from fusion plate","BP","keyword,offspring",NA
+"GO:0060885","clearance of cells from fusion plate by apoptotic process","BP","keyword,offspring",NA
+"GO:0060886","clearance of cells from fusion plate by epithelial to mesenchymal transition","BP","keyword,offspring",NA
+"GO:0003153","closure of embryonic heart tube","BP","offspring",NA
+"GO:0061386","closure of optic fissure","BP","offspring",NA
+"GO:0040004","collagen and cuticulin-based cuticle attachment to epithelium","BP","keyword",NA
+"GO:0040002","collagen and cuticulin-based cuticle development","BP","keyword",NA
+"GO:0032964","collagen biosynthetic process","BP","keyword",NA
+"GO:0030574","collagen catabolic process","BP","keyword",NA
+"GO:0030199","collagen fibril organization","BP","keyword,offspring,seed",NA
+"GO:0032963","collagen metabolic process","BP","keyword",NA
+"GO:0038065","collagen-activated signaling pathway","BP","keyword",NA
+"GO:0038063","collagen-activated tyrosine kinase receptor signaling pathway","BP","keyword",NA
+"GO:0150062","complement-mediated synapse pruning","BP","offspring",NA
+"GO:0000761","conjugant formation","BP","offspring",NA
+"GO:0000747","conjugation with cellular fusion","BP","keyword",NA
+"GO:0030038","contractile actin filament bundle assembly","BP","offspring",NA
+"GO:0060026","convergent extension","BP","keyword,offspring",NA
+"GO:0060028","convergent extension involved in axis elongation","BP","keyword,offspring",NA
+"GO:0060027","convergent extension involved in gastrulation","BP","keyword,offspring",NA
+"GO:0090253","convergent extension involved in imaginal disc-derived wing morphogenesis","BP","keyword,offspring",NA
+"GO:0061237","convergent extension involved in mesonephric nephron morphogenesis","BP","keyword,offspring",NA
+"GO:0072279","convergent extension involved in metanephric nephron morphogenesis","BP","keyword,offspring",NA
+"GO:0072045","convergent extension involved in nephron morphogenesis","BP","keyword,offspring",NA
+"GO:0022007","convergent extension involved in neural plate elongation","BP","keyword,offspring,seed",NA
+"GO:1904126","convergent extension involved in notochord morphogenesis","BP","keyword,offspring",NA
+"GO:0060029","convergent extension involved in organogenesis","BP","keyword,offspring,seed",NA
+"GO:1904125","convergent extension involved in rhombomere morphogenesis","BP","keyword,offspring",NA
+"GO:0090246","convergent extension involved in somitogenesis","BP","keyword,offspring",NA
+"GO:0003336","corneocyte desquamation","BP","offspring",NA
+"GO:0030866","cortical actin cytoskeleton organization","BP","offspring",NA
+"GO:0043622","cortical microtubule organization","BP","offspring",NA
+"GO:0098775","curli assembly","BP","offspring",NA
+"GO:0098778","curli subunit secretion coupled to curli assembly","BP","offspring",NA
+"GO:0042338","cuticle development involved in collagen and cuticulin-based cuticle molting cycle","BP","keyword",NA
+"GO:0035231","cytoneme assembly","BP","offspring",NA
+"GO:0010938","cytoplasmic microtubule depolymerization","BP","offspring",NA
+"GO:0031122","cytoplasmic microtubule organization","BP","offspring",NA
+"GO:0003426","cytoskeleton polarization involved in growth plate cartilage chondrocyte division","BP","offspring",NA
+"GO:0061824","cytosolic ciliogenesis","BP","offspring",NA
+"GO:0097742","de novo centriole assembly","BP","offspring",NA
+"GO:0098535","de novo centriole assembly involved in multi-ciliated epithelial cell differentiation","BP","offspring",NA
+"GO:0097743","de novo centriole assembly via blepharoplast","BP","offspring",NA
+"GO:0060232","delamination","BP","offspring",NA
+"GO:0055112","delamination involved in gastrulation with mouth forming second","BP","offspring",NA
+"GO:0097026","dendritic cell dendrite assembly","BP","offspring",NA
+"GO:0097062","dendritic spine maintenance","BP","offspring",NA
+"GO:0060997","dendritic spine morphogenesis","BP","offspring",NA
+"GO:0097061","dendritic spine organization","BP","offspring",NA
+"GO:0070468","dentin extracellular matrix secretion","BP","keyword,offspring",NA
+"GO:0002159","desmosome assembly","BP","offspring",NA
+"GO:0035921","desmosome disassembly","BP","offspring",NA
+"GO:0002160","desmosome maintenance","BP","offspring",NA
+"GO:0002934","desmosome organization","BP","offspring",NA
+"GO:0060600","dichotomous subdivision of an epithelial terminal unit","BP","offspring",NA
+"GO:0060524","dichotomous subdivision of prostate epithelial cord terminal unit","BP","offspring",NA
+"GO:0060448","dichotomous subdivision of terminal units involved in lung branching","BP","offspring",NA
+"GO:0060598","dichotomous subdivision of terminal units involved in mammary gland duct morphogenesis","BP","offspring",NA
+"GO:0060666","dichotomous subdivision of terminal units involved in salivary gland branching","BP","offspring",NA
+"GO:0060678","dichotomous subdivision of terminal units involved in ureteric bud branching","BP","offspring",NA
+"GO:0141041","disruption of extracellular matrix of another organism","BP","keyword",NA
+"GO:0072156","distal tubule morphogenesis","BP","offspring",NA
+"GO:0007391","dorsal closure","BP","offspring",NA
+"GO:0046664","dorsal closure, amnioserosa morphology change","BP","offspring",NA
+"GO:0007394","dorsal closure, elongation of leading edge cells","BP","offspring",NA
+"GO:0046663","dorsal closure, leading edge cell differentiation","BP","offspring",NA
+"GO:0035029","dorsal closure, leading edge cell fate commitment","BP","offspring",NA
+"GO:0007393","dorsal closure, leading edge cell fate determination","BP","offspring",NA
+"GO:0007395","dorsal closure, spreading of leading edge cells","BP","offspring",NA
+"GO:0060030","dorsal convergence","BP","offspring",NA
+"GO:0008069","dorsal/ventral axis specification, ovarian follicular epithelium","BP","offspring",NA
+"GO:0021904","dorsal/ventral neural tube patterning","BP","offspring",NA
+"GO:0036485","dorsolateral trunk neural crest cell migration","BP","keyword,offspring",NA
+"GO:0030989","dynein-driven meiotic oscillatory nuclear movement","BP","offspring",NA
+"GO:0042395","ecdysis, collagen and cuticulin-based cuticle","BP","keyword",NA
+"GO:0007499","ectoderm and mesoderm interaction","BP","keyword",NA
+"GO:0007398","ectoderm development","BP","keyword,seed",NA
+"GO:0001705","ectoderm formation","BP","keyword,offspring",NA
+"GO:0010668","ectodermal cell differentiation","BP","offspring",NA
+"GO:0001712","ectodermal cell fate commitment","BP","offspring",NA
+"GO:0001713","ectodermal cell fate determination","BP","offspring",NA
+"GO:0001715","ectodermal cell fate specification","BP","offspring",NA
+"GO:0048251","elastic fiber assembly","BP","offspring",NA
+"GO:0009562","embryo sac nuclear migration","BP","keyword,offspring",NA
+"GO:0048615","embryonic anterior midgut (ectodermal) morphogenesis","BP","offspring",NA
+"GO:0001838","embryonic epithelial tube formation","BP","offspring",NA
+"GO:0003144","embryonic heart tube formation","BP","offspring",NA
+"GO:0003145","embryonic heart tube formation via epithelial folding","BP","offspring",NA
+"GO:0003143","embryonic heart tube morphogenesis","BP","offspring",NA
+"GO:0003274","endocardial cushion fusion","BP","keyword,offspring",NA
+"GO:0090500","endocardial cushion to mesenchymal transition","BP","offspring",NA
+"GO:0003202","endocardial cushion to mesenchymal transition involved in cardiac skeleton development","BP","offspring",NA
+"GO:0003200","endocardial cushion to mesenchymal transition involved in heart chamber septation","BP","offspring",NA
+"GO:0003199","endocardial cushion to mesenchymal transition involved in heart valve formation","BP","offspring",NA
+"GO:0003262","endocardial progenitor cell migration to the midline involved in heart field formation","BP","offspring",NA
+"GO:0099593","endocytosed synaptic vesicle to endosome fusion","BP","keyword",NA
+"GO:0016320","endoplasmic reticulum membrane fusion","BP","keyword",NA
+"GO:1990689","endoplasmic reticulum-Golgi intermediate compartment (ERGIC) derived vesicle fusion with Golgi cis cisterna membrane","BP","keyword",NA
+"GO:1990669","endoplasmic reticulum-Golgi intermediate compartment (ERGIC) derived vesicle fusion with endoplasmic reticulum membrane","BP","keyword",NA
+"GO:1990687","endoplasmic reticulum-derived vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane","BP","keyword",NA
+"GO:0034058","endosomal vesicle fusion","BP","keyword",NA
+"GO:0071603","endothelial cell-cell adhesion","BP","offspring",NA
+"GO:0090673","endothelial cell-matrix adhesion","BP","offspring",NA
+"GO:0090674","endothelial cell-matrix adhesion via fibronectin","BP","keyword,offspring",NA
+"GO:0120084","endothelial tip cell filopodium assembly","BP","offspring",NA
+"GO:0098508","endothelial to hematopoietic transition","BP","offspring",NA
+"GO:0120331","endothelial tube formation","BP","offspring",NA
+"GO:0097498","endothelial tube lumen extension","BP","offspring",NA
+"GO:1902355","endothelial tube lumen extension involved in blood vessel lumen ensheathment","BP","offspring",NA
+"GO:0061154","endothelial tube morphogenesis","BP","offspring",NA
+"GO:0044482","envenomation resulting in blood vessel extracellular matrix damage, causing hemorrhagic damage in another organism","BP","keyword",NA
+"GO:0044523","envenomation resulting in damage of muscle extracellular matrix in another organism","BP","keyword",NA
+"GO:0048013","ephrin receptor signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0060802","epiblast cell-extraembryonic ectoderm cell signaling","BP","keyword",NA
+"GO:0090504","epiboly","BP","offspring",NA
+"GO:0055113","epiboly involved in gastrulation with mouth forming second","BP","offspring",NA
+"GO:0090505","epiboly involved in wound healing","BP","offspring",NA
+"GO:0003347","epicardial cell to mesenchymal cell transition","BP","offspring",NA
+"GO:0048730","epidermis morphogenesis","BP","offspring",NA
+"GO:0060660","epidermis morphogenesis involved in nipple formation","BP","offspring",NA
+"GO:0060643","epithelial cell differentiation involved in mammary gland bud morphogenesis","BP","offspring",NA
+"GO:0060653","epithelial cell differentiation involved in mammary gland cord morphogenesis","BP","offspring",NA
+"GO:0072157","epithelial cell migration involved in distal tubule morphogenesis","BP","offspring",NA
+"GO:0061279","epithelial cell migration involved in mesonephric distal tubule morphogenesis","BP","offspring",NA
+"GO:0061278","epithelial cell migration involved in mesonephric nephron tubule morphogenesis","BP","offspring",NA
+"GO:0061280","epithelial cell migration involved in mesonephric proximal tubule morphogenesis","BP","offspring",NA
+"GO:0072291","epithelial cell migration involved in metanephric distal tubule morphogenesis","BP","offspring",NA
+"GO:0072290","epithelial cell migration involved in metanephric nephron tubule morphogenesis","BP","offspring",NA
+"GO:0072292","epithelial cell migration involved in metanephric proximal tubule morphogenesis","BP","offspring",NA
+"GO:0072155","epithelial cell migration involved in nephron tubule morphogenesis","BP","offspring",NA
+"GO:0072159","epithelial cell migration involved in proximal tubule morphogenesis","BP","offspring",NA
+"GO:0060672","epithelial cell morphogenesis involved in placental branching","BP","offspring",NA
+"GO:0061331","epithelial cell proliferation involved in Malpighian tubule morphogenesis","BP","offspring",NA
+"GO:0060505","epithelial cell proliferation involved in lung bud dilation","BP","offspring",NA
+"GO:0060650","epithelial cell proliferation involved in mammary gland bud elongation","BP","offspring",NA
+"GO:0060750","epithelial cell proliferation involved in mammary gland duct elongation","BP","offspring",NA
+"GO:0060517","epithelial cell proliferation involved in prostatic bud elongation","BP","offspring",NA
+"GO:2001013","epithelial cell proliferation involved in renal tubule morphogenesis","BP","offspring",NA
+"GO:0090136","epithelial cell-cell adhesion","BP","offspring",NA
+"GO:0090137","epithelial cell-cell adhesion involved in epithelium migration","BP","offspring",NA
+"GO:0060287","epithelial cilium movement involved in determination of left/right asymmetry","BP","keyword",NA
+"GO:0003351","epithelial cilium movement involved in extracellular fluid movement","BP","keyword",NA
+"GO:0001837","epithelial to mesenchymal transition","BP","seed",NA
+"GO:0060940","epithelial to mesenchymal transition involved in cardiac fibroblast development","BP","offspring",NA
+"GO:0003201","epithelial to mesenchymal transition involved in coronary vasculature morphogenesis","BP","offspring",NA
+"GO:0003198","epithelial to mesenchymal transition involved in endocardial cushion formation","BP","offspring",NA
+"GO:0060441","epithelial tube branching involved in lung morphogenesis","BP","offspring",NA
+"GO:0072175","epithelial tube formation","BP","offspring",NA
+"GO:0060562","epithelial tube morphogenesis","BP","offspring",NA
+"GO:0045317","equator specification","BP","offspring",NA
+"GO:0031121","equatorial microtubule organization","BP","offspring",NA
+"GO:1904185","equatorial microtubule organizing center assembly","BP","offspring",NA
+"GO:0031025","equatorial microtubule organizing center disassembly","BP","offspring",NA
+"GO:0034117","erythrocyte aggregation","BP","offspring",NA
+"GO:0048104","establishment of body hair or bristle planar orientation","BP","offspring",NA
+"GO:0048105","establishment of body hair planar orientation","BP","offspring",NA
+"GO:0003424","establishment of cell polarity involved in growth plate cartilage chondrocyte division","BP","offspring",NA
+"GO:0071964","establishment of cell polarity regulating cell shape","BP","offspring",NA
+"GO:0045198","establishment of epithelial cell apical/basal polarity","BP","offspring",NA
+"GO:0003412","establishment of epithelial cell apical/basal polarity involved in camera-type eye morphogenesis","BP","offspring",NA
+"GO:0001737","establishment of imaginal disc-derived wing hair orientation","BP","offspring",NA
+"GO:0051295","establishment of meiotic spindle localization","BP","offspring",NA
+"GO:0051296","establishment of meiotic spindle orientation","BP","offspring",NA
+"GO:0061867","establishment of mitotic spindle asymmetry","BP","offspring",NA
+"GO:0040001","establishment of mitotic spindle localization","BP","offspring",NA
+"GO:0000132","establishment of mitotic spindle orientation","BP","offspring",NA
+"GO:0003425","establishment of mitotic spindle orientation involved in growth plate cartilage chondrocyte division","BP","offspring",NA
+"GO:0003316","establishment of myocardial progenitor cell apical/basal polarity","BP","offspring",NA
+"GO:0042067","establishment of ommatidial planar polarity","BP","offspring",NA
+"GO:0001736","establishment of planar polarity","BP","offspring",NA
+"GO:0061238","establishment of planar polarity involved in mesonephric nephron morphogenesis","BP","offspring",NA
+"GO:0072280","establishment of planar polarity involved in metanephric nephron morphogenesis","BP","offspring",NA
+"GO:0072046","establishment of planar polarity involved in nephron morphogenesis","BP","offspring",NA
+"GO:0090177","establishment of planar polarity involved in neural tube closure","BP","keyword,offspring,seed",NA
+"GO:0042249","establishment of planar polarity of embryonic epithelium","BP","offspring",NA
+"GO:0042247","establishment of planar polarity of follicular epithelium","BP","offspring",NA
+"GO:0042252","establishment of planar polarity of larval imaginal disc epithelium","BP","offspring",NA
+"GO:0051293","establishment of spindle localization","BP","offspring",NA
+"GO:0051294","establishment of spindle orientation","BP","offspring",NA
+"GO:0007529","establishment of synaptic specificity at neuromuscular junction","BP","offspring",NA
+"GO:0048106","establishment of thoracic bristle planar orientation","BP","offspring",NA
+"GO:0030950","establishment or maintenance of actin cytoskeleton polarity","BP","offspring",NA
+"GO:0061246","establishment or maintenance of bipolar cell polarity regulating cell shape","BP","offspring",NA
+"GO:0071963","establishment or maintenance of cell polarity regulating cell shape","BP","offspring",NA
+"GO:0045197","establishment or maintenance of epithelial cell apical/basal polarity","BP","seed",NA
+"GO:0030951","establishment or maintenance of microtubule cytoskeleton polarity","BP","offspring",NA
+"GO:0061340","establishment or maintenance of monopolar cell polarity regulating cell shape","BP","offspring",NA
+"GO:0016332","establishment or maintenance of polarity of embryonic epithelium","BP","offspring",NA
+"GO:0016334","establishment or maintenance of polarity of follicular epithelium","BP","offspring",NA
+"GO:0016336","establishment or maintenance of polarity of larval imaginal disc epithelium","BP","offspring",NA
+"GO:1904861","excitatory synapse assembly","BP","offspring",NA
+"GO:1905805","excitatory synapse pruning","BP","offspring",NA
+"GO:0021816","extension of a leading process involved in cell motility in cerebral cortex radial glia guided migration","BP","offspring",NA
+"GO:0021803","extension of leading cell process to pial surface","BP","offspring",NA
+"GO:0085029","extracellular matrix assembly","BP","keyword,offspring",NA
+"GO:0070278","extracellular matrix constituent secretion","BP","keyword,offspring",NA
+"GO:0022617","extracellular matrix disassembly","BP","keyword,offspring",NA
+"GO:0030198","extracellular matrix organization","BP","keyword,seed",NA
+"GO:0021820","extracellular matrix organization in marginal zone involved in cerebral cortex radial glia guided migration","BP","keyword,offspring",NA
+"GO:0061148","extracellular matrix organization involved in endocardium development","BP","keyword,offspring",NA
+"GO:0035426","extracellular matrix-cell signaling","BP","keyword",NA
+"GO:0072680","extracellular matrix-dependent thymocyte migration","BP","keyword",NA
+"GO:0021939","extracellular matrix-granule cell signaling involved in regulation of granule cell precursor proliferation","BP","keyword",NA
+"GO:0048139","female germ-line cyst encapsulation","BP","offspring",NA
+"GO:0008302","female germline ring canal formation, actin assembly","BP","offspring",NA
+"GO:0008335","female germline ring canal stabilization","BP","offspring",NA
+"GO:1902178","fibroblast growth factor receptor apoptotic signaling pathway","BP","offspring",NA
+"GO:0008543","fibroblast growth factor receptor signaling pathway","BP","seed",NA
+"GO:0021875","fibroblast growth factor receptor signaling pathway involved in forebrain neuroblast division","BP","offspring",NA
+"GO:0021899","fibroblast growth factor receptor signaling pathway involved in forebrain neuron fate commitment","BP","offspring",NA
+"GO:0061313","fibroblast growth factor receptor signaling pathway involved in heart development","BP","offspring",NA
+"GO:0035603","fibroblast growth factor receptor signaling pathway involved in hemopoiesis","BP","offspring",NA
+"GO:0060595","fibroblast growth factor receptor signaling pathway involved in mammary gland specification","BP","offspring",NA
+"GO:0035602","fibroblast growth factor receptor signaling pathway involved in negative regulation of apoptotic process in bone marrow cell","BP","offspring",NA
+"GO:0060825","fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation","BP","keyword,offspring",NA
+"GO:0035607","fibroblast growth factor receptor signaling pathway involved in orbitofrontal cortex development","BP","offspring",NA
+"GO:0035604","fibroblast growth factor receptor signaling pathway involved in positive regulation of cell proliferation in bone marrow","BP","offspring",NA
+"GO:0090243","fibroblast growth factor receptor signaling pathway involved in somitogenesis","BP","keyword,offspring",NA
+"GO:0021907","fibroblast growth factor receptor signaling pathway involved in spinal cord anterior/posterior pattern formation","BP","offspring",NA
+"GO:2000699","fibroblast growth factor receptor signaling pathway involved in ureteric bud formation","BP","offspring",NA
+"GO:1905590","fibronectin fibril organization","BP","keyword",NA
+"GO:0072681","fibronectin-dependent thymocyte migration","BP","keyword",NA
+"GO:0046847","filopodium assembly","BP","offspring,seed",NA
+"GO:0036058","filtration diaphragm assembly","BP","offspring",NA
+"GO:0110140","flagellum attachment zone organization","BP","offspring",NA
+"GO:0000128","flocculation","BP","offspring",NA
+"GO:0033504","floor plate development","BP","keyword,offspring,seed",NA
+"GO:0021508","floor plate formation","BP","keyword,offspring,seed",NA
+"GO:0033505","floor plate morphogenesis","BP","keyword,offspring,seed",NA
+"GO:0048041","focal adhesion assembly","BP","keyword,offspring",NA
+"GO:0120181","focal adhesion disassembly","BP","keyword,offspring",NA
+"GO:0007299","follicle cell of egg chamber-cell adhesion","BP","offspring",NA
+"GO:0022000","forebrain induction by the anterior neural ridge","BP","keyword",NA
+"GO:0021905","forebrain-midbrain boundary formation","BP","offspring",NA
+"GO:0070649","formin-nucleated actin cable assembly","BP","keyword,offspring",NA
+"GO:0110009","formin-nucleated actin cable organization","BP","keyword,offspring",NA
+"GO:1904541","fungal-type cell wall disassembly involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:0035156","fusion cell fate specification","BP","keyword",NA
+"GO:0061936","fusion of sperm to egg plasma membrane involved in double fertilization forming a zygote and endosperm","BP","keyword",NA
+"GO:0061935","fusion of sperm to egg plasma membrane involved in double fertilization forming two zygotes","BP","keyword",NA
+"GO:0007342","fusion of sperm to egg plasma membrane involved in single fertilization","BP","keyword",NA
+"GO:0039700","fusion of viral membrane with host outer nuclear membrane","BP","keyword",NA
+"GO:0039654","fusion of virus membrane with host endosome membrane","BP","keyword",NA
+"GO:0075503","fusion of virus membrane with host macropinosome membrane","BP","keyword",NA
+"GO:0098997","fusion of virus membrane with host outer membrane","BP","keyword",NA
+"GO:0019064","fusion of virus membrane with host plasma membrane","BP","keyword",NA
+"GO:0036349","galactose-specific flocculation","BP","offspring",NA
+"GO:0097112","gamma-aminobutyric acid receptor clustering","BP","offspring",NA
+"GO:0016264","gap junction assembly","BP","offspring",NA
+"GO:1901148","gene expression involved in extracellular matrix organization","BP","keyword,offspring",NA
+"GO:0097116","gephyrin clustering involved in postsynaptic density assembly","BP","offspring",NA
+"GO:0048138","germ-line cyst encapsulation","BP","offspring",NA
+"GO:0030708","germarium-derived female germ-line cyst encapsulation","BP","offspring",NA
+"GO:2000701","glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation","BP","offspring",NA
+"GO:0032836","glomerular basement membrane development","BP","keyword,offspring",NA
+"GO:0097688","glutamate receptor clustering","BP","offspring",NA
+"GO:0072579","glycine receptor clustering","BP","offspring",NA
+"GO:0097117","guanylate kinase-associated protein clustering","BP","offspring",NA
+"GO:0031069","hair follicle morphogenesis","BP","offspring",NA
+"GO:0003146","heart jogging","BP","offspring",NA
+"GO:0001947","heart looping","BP","offspring",NA
+"GO:0003315","heart rudiment formation","BP","offspring",NA
+"GO:0003320","heart rudiment involution","BP","offspring",NA
+"GO:0003314","heart rudiment morphogenesis","BP","offspring",NA
+"GO:0031581","hemidesmosome assembly","BP","offspring",NA
+"GO:0007157","heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules","BP","offspring",NA
+"GO:0034113","heterotypic cell-cell adhesion","BP","offspring",NA
+"GO:0021906","hindbrain-spinal cord boundary formation","BP","offspring",NA
+"GO:0035329","hippo signaling","BP","keyword",NA
+"GO:0007156","homophilic cell adhesion via plasma membrane adhesion molecules","BP","offspring",NA
+"GO:0034109","homotypic cell-cell adhesion","BP","offspring",NA
+"GO:0032118","horsetail-astral microtubule organization","BP","offspring",NA
+"GO:0046528","imaginal disc fusion","BP","keyword",NA
+"GO:0046529","imaginal disc fusion, thorax closure","BP","keyword",NA
+"GO:0035320","imaginal disc-derived wing hair site selection","BP","offspring",NA
+"GO:0010514","induction of conjugation with cellular fusion","BP","keyword",NA
+"GO:0021916","inductive cell-cell signaling between paraxial mesoderm and motor neuron precursors","BP","keyword",NA
+"GO:1904862","inhibitory synapse assembly","BP","offspring",NA
+"GO:0140456","initial meiotic spindle pole body separation","BP","offspring",NA
+"GO:0000073","initial mitotic spindle pole body separation","BP","offspring",NA
+"GO:0007392","initiation of dorsal closure","BP","offspring",NA
+"GO:0021993","initiation of neural tube closure","BP","keyword,offspring,seed",NA
+"GO:0036159","inner dynein arm assembly","BP","offspring",NA
+"GO:0033622","integrin activation","BP","keyword",NA
+"GO:0045112","integrin biosynthetic process","BP","keyword",NA
+"GO:0007229","integrin-mediated signaling pathway","BP","keyword",NA
+"GO:0022027","interkinetic nuclear migration","BP","keyword,offspring,seed",NA
+"GO:0090675","intermicrovillar adhesion","BP","offspring",NA
+"GO:0060646","internal mammary gland bud epithelial cell differentiation","BP","offspring",NA
+"GO:0031024","interphase microtubule organizing center assembly","BP","offspring",NA
+"GO:0035720","intraciliary anterograde transport","BP","offspring",NA
+"GO:0035721","intraciliary retrograde transport","BP","offspring",NA
+"GO:0042073","intraciliary transport","BP","offspring,seed",NA
+"GO:0035735","intraciliary transport involved in cilium assembly","BP","keyword,offspring",NA
+"GO:0055109","invagination involved in gastrulation with mouth forming second","BP","offspring",NA
+"GO:0055110","involution involved in gastrulation with mouth forming second","BP","offspring",NA
+"GO:0000742","karyogamy involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:0061472","karyomere membrane fusion","BP","keyword",NA
+"GO:0030032","lamellipodium assembly","BP","offspring,seed",NA
+"GO:0003363","lamellipodium assembly involved in ameboidal cell migration","BP","offspring",NA
+"GO:0003364","lamellipodium assembly involved in mesendodermal cell migration","BP","offspring",NA
+"GO:0021996","lamina terminalis formation","BP","offspring",NA
+"GO:0031271","lateral pseudopodium assembly","BP","offspring",NA
+"GO:0060601","lateral sprouting from an epithelium","BP","offspring",NA
+"GO:0060490","lateral sprouting involved in lung morphogenesis","BP","offspring",NA
+"GO:0060599","lateral sprouting involved in mammary gland duct morphogenesis","BP","offspring",NA
+"GO:0060680","lateral sprouting involved in ureteric bud morphogenesis","BP","offspring",NA
+"GO:0050903","leukocyte activation-dependent arrest","BP","offspring",NA
+"GO:0061757","leukocyte adhesion to arterial endothelial cell","BP","offspring",NA
+"GO:0061756","leukocyte adhesion to vascular endothelial cell","BP","offspring",NA
+"GO:0070486","leukocyte aggregation","BP","offspring",NA
+"GO:0007159","leukocyte cell-cell adhesion","BP","offspring",NA
+"GO:0050901","leukocyte tethering or rolling","BP","offspring",NA
+"GO:0160077","lipid droplet fusion","BP","keyword",NA
+"GO:0060989","lipid tube assembly involved in organelle fusion","BP","keyword",NA
+"GO:0042062","long-term strengthening of neuromuscular junction","BP","offspring",NA
+"GO:0060424","lung field specification","BP","offspring",NA
+"GO:0060492","lung induction","BP","offspring",NA
+"GO:0036339","lymphocyte adhesion to endothelial cell of high endothelial venule","BP","offspring",NA
+"GO:0071593","lymphocyte aggregation","BP","offspring",NA
+"GO:1902550","lymphoid lineage cell migration into thymus involved in thymus epithelium morphogenesis","BP","offspring",NA
+"GO:0034238","macrophage fusion","BP","keyword",NA
+"GO:0099559","maintenance of alignment of postsynaptic density and presynaptic active zone","BP","offspring",NA
+"GO:0061305","maintenance of bipolar cell polarity regulating cell shape","BP","offspring",NA
+"GO:0120221","maintenance of ciliary planar beating movement pattern","BP","keyword",NA
+"GO:0045199","maintenance of epithelial cell apical/basal polarity","BP","offspring",NA
+"GO:0042250","maintenance of polarity of embryonic epithelium","BP","offspring",NA
+"GO:0042248","maintenance of polarity of follicular epithelium","BP","offspring",NA
+"GO:0042251","maintenance of polarity of larval imaginal disc epithelium","BP","offspring",NA
+"GO:0099562","maintenance of postsynaptic density structure","BP","offspring",NA
+"GO:0098880","maintenance of postsynaptic specialization structure","BP","offspring",NA
+"GO:0048790","maintenance of presynaptic active zone structure","BP","offspring",NA
+"GO:0071990","maintenance of protein location to spindle pole body","BP","offspring",NA
+"GO:0099558","maintenance of synapse structure","BP","offspring",NA
+"GO:0048140","male germ-line cyst encapsulation","BP","offspring",NA
+"GO:0060763","mammary duct terminal end bud growth","BP","offspring",NA
+"GO:0060745","mammary gland branching involved in pregnancy","BP","offspring",NA
+"GO:0060744","mammary gland branching involved in thelarche","BP","offspring",NA
+"GO:0060649","mammary gland bud elongation","BP","offspring",NA
+"GO:0060615","mammary gland bud formation","BP","offspring",NA
+"GO:0060648","mammary gland bud morphogenesis","BP","offspring",NA
+"GO:0060654","mammary gland cord elongation","BP","offspring",NA
+"GO:0060616","mammary gland cord formation","BP","offspring",NA
+"GO:0060652","mammary gland cord morphogenesis","BP","offspring",NA
+"GO:0060604","mammary gland duct cavitation","BP","offspring",NA
+"GO:0060603","mammary gland duct morphogenesis","BP","offspring",NA
+"GO:0060641","mammary gland duct regression in males","BP","offspring",NA
+"GO:0036350","mannose-specific flocculation","BP","offspring",NA
+"GO:0008070","maternal determination of dorsal/ventral axis, ovarian follicular epithelium, germ-line encoded","BP","offspring",NA
+"GO:0008071","maternal determination of dorsal/ventral axis, ovarian follicular epithelium, soma encoded","BP","offspring",NA
+"GO:0071631","mating pheromone secretion involved in positive regulation of conjugation with cellular fusion","BP","keyword",NA
+"GO:0071835","mating pheromone secretion involved in regulation of conjugation with cellular fusion","BP","keyword",NA
+"GO:1904600","mating projection actin fusion focus assembly","BP","keyword,offspring",NA
+"GO:0031382","mating projection formation","BP","offspring",NA
+"GO:1990672","medial-Golgi-derived vesicle fusion with Golgi trans cisterna membrane","BP","keyword",NA
+"GO:0060031","mediolateral intercalation","BP","offspring",NA
+"GO:0090306","meiotic spindle assembly","BP","offspring",NA
+"GO:0051229","meiotic spindle disassembly","BP","offspring",NA
+"GO:0051232","meiotic spindle elongation","BP","offspring",NA
+"GO:0140642","meiotic spindle formation (spindle phase two)","BP","offspring",NA
+"GO:0051257","meiotic spindle midzone assembly","BP","offspring",NA
+"GO:0000212","meiotic spindle organization","BP","offspring",NA
+"GO:1990395","meiotic spindle pole body organization","BP","offspring",NA
+"GO:0097326","melanocyte adhesion","BP","offspring",NA
+"GO:0061025","membrane fusion","BP","keyword",NA
+"GO:0002078","membrane fusion involved in acrosome reaction","BP","keyword",NA
+"GO:0039663","membrane fusion involved in viral entry into host cell","BP","keyword",NA
+"GO:0035759","mesangial cell-matrix adhesion","BP","offspring",NA
+"GO:0048383","mesectoderm development","BP","offspring",NA
+"GO:0060647","mesenchymal cell condensation involved in mammary fat development","BP","offspring",NA
+"GO:0060783","mesenchymal smoothened signaling pathway involved in prostate gland development","BP","offspring",NA
+"GO:0061456","mesenchymal stem cell migration involved in uteric bud morphogenesis","BP","offspring",NA
+"GO:0061271","mesenchymal to epithelial transition involved in mesonephric renal vesicle formation","BP","offspring",NA
+"GO:0072285","mesenchymal to epithelial transition involved in metanephric renal vesicle formation","BP","offspring",NA
+"GO:0003337","mesenchymal to epithelial transition involved in metanephros morphogenesis","BP","offspring",NA
+"GO:0072036","mesenchymal to epithelial transition involved in renal vesicle formation","BP","offspring",NA
+"GO:0060493","mesenchymal-endodermal cell signaling involved in lung induction","BP","offspring",NA
+"GO:0060521","mesenchymal-epithelial cell signaling involved in prostate induction","BP","offspring",NA
+"GO:0060809","mesodermal to mesenchymal transition involved in gastrulation","BP","offspring",NA
+"GO:0061273","mesonephric distal tubule morphogenesis","BP","offspring",NA
+"GO:0072181","mesonephric duct formation","BP","offspring",NA
+"GO:0072180","mesonephric duct morphogenesis","BP","offspring",NA
+"GO:0061233","mesonephric glomerular basement membrane development","BP","keyword,offspring",NA
+"GO:0061277","mesonephric nephron tubule formation","BP","offspring",NA
+"GO:0061240","mesonephric nephron tubule morphogenesis","BP","offspring",NA
+"GO:0061276","mesonephric proximal tubule morphogenesis","BP","offspring",NA
+"GO:0061262","mesonephric renal vesicle formation","BP","offspring",NA
+"GO:0061294","mesonephric renal vesicle induction","BP","offspring",NA
+"GO:0061243","mesonephric renal vesicle morphogenesis","BP","offspring",NA
+"GO:0072172","mesonephric tubule formation","BP","offspring",NA
+"GO:0072171","mesonephric tubule morphogenesis","BP","offspring",NA
+"GO:0072287","metanephric distal tubule morphogenesis","BP","offspring",NA
+"GO:0072274","metanephric glomerular basement membrane development","BP","keyword,offspring",NA
+"GO:0072289","metanephric nephron tubule formation","BP","offspring",NA
+"GO:0072282","metanephric nephron tubule morphogenesis","BP","offspring",NA
+"GO:0072288","metanephric proximal tubule morphogenesis","BP","offspring",NA
+"GO:0072093","metanephric renal vesicle formation","BP","offspring",NA
+"GO:0072094","metanephric renal vesicle induction","BP","offspring",NA
+"GO:0072283","metanephric renal vesicle morphogenesis","BP","offspring",NA
+"GO:0072174","metanephric tubule formation","BP","offspring",NA
+"GO:0072173","metanephric tubule morphogenesis","BP","offspring",NA
+"GO:0030035","microspike assembly","BP","offspring",NA
+"GO:0034453","microtubule anchoring","BP","offspring",NA
+"GO:0106007","microtubule anchoring at cell cortex of cell tip","BP","offspring",NA
+"GO:0034454","microtubule anchoring at centrosome","BP","offspring",NA
+"GO:0072393","microtubule anchoring at microtubule organizing center","BP","offspring",NA
+"GO:1990810","microtubule anchoring at mitotic spindle pole body","BP","offspring",NA
+"GO:0034631","microtubule anchoring at spindle pole body","BP","offspring",NA
+"GO:0001578","microtubule bundle formation","BP","offspring",NA
+"GO:1903563","microtubule bundle formation involved in horsetail-astral microtubule organization","BP","offspring",NA
+"GO:1903562","microtubule bundle formation involved in mitotic spindle midzone assembly","BP","offspring",NA
+"GO:1990933","microtubule cytoskeleton attachment to nuclear envelope","BP","offspring",NA
+"GO:0000226","microtubule cytoskeleton organization","BP","seed",NA
+"GO:0090176","microtubule cytoskeleton organization involved in establishment of planar polarity","BP","offspring",NA
+"GO:1902850","microtubule cytoskeleton organization involved in mitosis","BP","offspring",NA
+"GO:0007019","microtubule depolymerization","BP","offspring",NA
+"GO:0007020","microtubule nucleation","BP","offspring",NA
+"GO:0051415","microtubule nucleation by interphase microtubule organizing center","BP","offspring",NA
+"GO:0051418","microtubule nucleation by microtubule organizing center","BP","offspring",NA
+"GO:0051417","microtubule nucleation by spindle pole body","BP","offspring",NA
+"GO:0031023","microtubule organizing center organization","BP","offspring",NA
+"GO:0046785","microtubule polymerization","BP","offspring",NA
+"GO:0031109","microtubule polymerization or depolymerization","BP","offspring",NA
+"GO:0051013","microtubule severing","BP","offspring",NA
+"GO:0030034","microvillar actin bundle assembly","BP","offspring",NA
+"GO:0030033","microvillus assembly","BP","offspring",NA
+"GO:0030917","midbrain-hindbrain boundary development","BP","offspring",NA
+"GO:0021547","midbrain-hindbrain boundary initiation","BP","offspring",NA
+"GO:0021732","midbrain-hindbrain boundary maturation","BP","offspring",NA
+"GO:0022004","midbrain-hindbrain boundary maturation during brain development","BP","offspring",NA
+"GO:0022005","midbrain-hindbrain boundary maturation during neural plate development","BP","keyword,offspring",NA
+"GO:0021555","midbrain-hindbrain boundary morphogenesis","BP","offspring",NA
+"GO:0021552","midbrain-hindbrain boundary structural organization","BP","offspring",NA
+"GO:0036078","minus-end specific microtubule depolymerization","BP","offspring",NA
+"GO:0008053","mitochondrial fusion","BP","keyword",NA
+"GO:1990627","mitochondrial inner membrane fusion","BP","keyword",NA
+"GO:1990626","mitochondrial outer membrane fusion","BP","keyword",NA
+"GO:1903475","mitotic actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:1903479","mitotic actomyosin contractile ring assembly actin filament organization","BP","keyword,offspring",NA
+"GO:1902404","mitotic actomyosin contractile ring contraction","BP","keyword,offspring",NA
+"GO:1902406","mitotic actomyosin contractile ring maturation","BP","keyword,offspring",NA
+"GO:0007100","mitotic centrosome separation","BP","offspring",NA
+"GO:1903477","mitotic contractile ring actin filament bundle assembly","BP","offspring",NA
+"GO:0090307","mitotic spindle assembly","BP","offspring",NA
+"GO:0051228","mitotic spindle disassembly","BP","offspring",NA
+"GO:0000022","mitotic spindle elongation","BP","offspring",NA
+"GO:0061805","mitotic spindle elongation (spindle phase three)","BP","offspring",NA
+"GO:0061804","mitotic spindle formation (spindle phase one)","BP","offspring",NA
+"GO:0140641","mitotic spindle formation (spindle phase two)","BP","offspring",NA
+"GO:1990755","mitotic spindle microtubule depolymerization","BP","offspring",NA
+"GO:0051256","mitotic spindle midzone assembly","BP","offspring",NA
+"GO:0007052","mitotic spindle organization","BP","offspring",NA
+"GO:1903087","mitotic spindle pole body duplication","BP","offspring",NA
+"GO:1905047","mitotic spindle pole body organization","BP","offspring",NA
+"GO:0090221","mitotic spindle-templated microtubule nucleation","BP","offspring",NA
+"GO:0098886","modification of dendritic spine","BP","offspring",NA
+"GO:0098885","modification of postsynaptic actin cytoskeleton","BP","offspring",NA
+"GO:0099010","modification of postsynaptic structure","BP","offspring",NA
+"GO:0099563","modification of synaptic structure","BP","offspring",NA
+"GO:0099564","modification of synaptic structure, modulating synaptic transmission","BP","offspring",NA
+"GO:0021815","modulation of microtubule cytoskeleton involved in cerebral cortex radial glia guided migration","BP","offspring",NA
+"GO:0018996","molting cycle, collagen and cuticulin-based cuticle","BP","keyword",NA
+"GO:0070487","monocyte aggregation","BP","offspring",NA
+"GO:0061138","morphogenesis of a branching epithelium","BP","offspring",NA
+"GO:0001738","morphogenesis of a polarized epithelium","BP","offspring",NA
+"GO:0003159","morphogenesis of an endothelium","BP","offspring",NA
+"GO:0060572","morphogenesis of an epithelial bud","BP","offspring",NA
+"GO:0060571","morphogenesis of an epithelial fold","BP","offspring",NA
+"GO:0003152","morphogenesis of an epithelial fold involved in embryonic heart tube formation","BP","offspring",NA
+"GO:0002011","morphogenesis of an epithelial sheet","BP","offspring",NA
+"GO:0002009","morphogenesis of an epithelium","BP","seed",NA
+"GO:0016331","morphogenesis of embryonic epithelium","BP","offspring",NA
+"GO:0016333","morphogenesis of follicular epithelium","BP","offspring",NA
+"GO:0016335","morphogenesis of larval imaginal disc epithelium","BP","offspring",NA
+"GO:0044458","motile cilium assembly","BP","keyword,offspring",NA
+"GO:0150089","multiple spine synapse organization","BP","offspring",NA
+"GO:0150091","multiple spine synapse organization, multiple dendrites","BP","offspring",NA
+"GO:0150090","multiple spine synapse organization, single dendrite","BP","offspring",NA
+"GO:0098866","multivesicular body fusion to apical plasma membrane","BP","keyword",NA
+"GO:0061763","multivesicular body-lysosome fusion","BP","keyword",NA
+"GO:0071689","muscle thin filament assembly","BP","offspring",NA
+"GO:0022011","myelination in peripheral nervous system","BP","offspring",NA
+"GO:0007520","myoblast fusion","BP","keyword",NA
+"GO:0014905","myoblast fusion involved in skeletal muscle regeneration","BP","keyword",NA
+"GO:0003304","myocardial epithelial involution involved in heart jogging","BP","offspring",NA
+"GO:0030239","myofibril assembly","BP","offspring",NA
+"GO:0031036","myosin II filament assembly","BP","offspring",NA
+"GO:0031037","myosin II filament disassembly","BP","offspring",NA
+"GO:0031038","myosin II filament organization","BP","offspring",NA
+"GO:0031034","myosin filament assembly","BP","offspring",NA
+"GO:0031035","myosin filament disassembly","BP","offspring",NA
+"GO:0031033","myosin filament organization","BP","offspring",NA
+"GO:1904718","negative regulation of AMPA glutamate receptor clustering","BP","offspring",NA
+"GO:0032013","negative regulation of ARF protein signal transduction","BP","offspring",NA
+"GO:0034316","negative regulation of Arp2/3 complex-mediated actin nucleation","BP","offspring",NA
+"GO:2001285","negative regulation of BMP secretion","BP","keyword",NA
+"GO:0030514","negative regulation of BMP signaling pathway","BP","broad_pathway,keyword,offspring,seed",NA
+"GO:0032830","negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation","BP","offspring",NA
+"GO:0032833","negative regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response","BP","offspring",NA
+"GO:2000515","negative regulation of CD4-positive, alpha-beta T cell activation","BP","offspring",NA
+"GO:1900280","negative regulation of CD4-positive, alpha-beta T cell costimulation","BP","offspring",NA
+"GO:0043371","negative regulation of CD4-positive, alpha-beta T cell differentiation","BP","offspring",NA
+"GO:2000562","negative regulation of CD4-positive, alpha-beta T cell proliferation","BP","offspring",NA
+"GO:2001186","negative regulation of CD8-positive, alpha-beta T cell activation","BP","offspring",NA
+"GO:0043377","negative regulation of CD8-positive, alpha-beta T cell differentiation","BP","offspring",NA
+"GO:2000565","negative regulation of CD8-positive, alpha-beta T cell proliferation","BP","offspring",NA
+"GO:1901185","negative regulation of ERBB signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1905579","negative regulation of ERBB3 signaling pathway","BP","broad_pathway",NA
+"GO:0120154","negative regulation of ERBB4 signaling pathway","BP","broad_pathway",NA
+"GO:0048216","negative regulation of Golgi vesicle fusion to target membrane","BP","keyword",NA
+"GO:0051134","negative regulation of NK T cell activation","BP","offspring",NA
+"GO:0051137","negative regulation of NK T cell differentiation","BP","offspring",NA
+"GO:0051141","negative regulation of NK T cell proliferation","BP","offspring",NA
+"GO:0045746","negative regulation of Notch signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1902367","negative regulation of Notch signaling pathway involved in somitogenesis","BP","broad_pathway,keyword",NA
+"GO:0035021","negative regulation of Rac protein signal transduction","BP","offspring",NA
+"GO:0046580","negative regulation of Ras protein signal transduction","BP","offspring",NA
+"GO:0035024","negative regulation of Rho protein signal transduction","BP","offspring",NA
+"GO:0060392","negative regulation of SMAD protein signal transduction","BP","keyword",NA
+"GO:0014039","negative regulation of Schwann cell differentiation","BP","offspring",NA
+"GO:0050868","negative regulation of T cell activation","BP","offspring",NA
+"GO:2001189","negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell","BP","offspring",NA
+"GO:2000524","negative regulation of T cell costimulation","BP","offspring",NA
+"GO:0045581","negative regulation of T cell differentiation","BP","offspring",NA
+"GO:0033085","negative regulation of T cell differentiation in thymus","BP","offspring",NA
+"GO:0046014","negative regulation of T cell homeostatic proliferation","BP","offspring",NA
+"GO:0042130","negative regulation of T cell proliferation","BP","offspring",NA
+"GO:2000518","negative regulation of T-helper 1 cell activation","BP","offspring",NA
+"GO:0045626","negative regulation of T-helper 1 cell differentiation","BP","offspring",NA
+"GO:2000320","negative regulation of T-helper 17 cell differentiation","BP","offspring",NA
+"GO:2000329","negative regulation of T-helper 17 cell lineage commitment","BP","offspring",NA
+"GO:0045629","negative regulation of T-helper 2 cell differentiation","BP","offspring",NA
+"GO:0045623","negative regulation of T-helper cell differentiation","BP","offspring",NA
+"GO:0061358","negative regulation of Wnt protein secretion","BP","keyword",NA
+"GO:0030178","negative regulation of Wnt signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0003308","negative regulation of Wnt signaling pathway involved in heart development","BP","broad_pathway,keyword",NA
+"GO:0045812","negative regulation of Wnt signaling pathway, calcium modulating pathway","BP","broad_pathway,keyword",NA
+"GO:0141113","negative regulation of Wnt signaling pathway, planar cell polarity pathway","BP","broad_pathway,keyword,offspring",NA
+"GO:1904723","negative regulation of Wnt-Frizzled-LRP5/6 complex assembly","BP","keyword",NA
+"GO:0120133","negative regulation of actin cortical patch assembly","BP","offspring",NA
+"GO:0110055","negative regulation of actin filament annealing","BP","offspring",NA
+"GO:0032232","negative regulation of actin filament bundle assembly","BP","offspring",NA
+"GO:0030835","negative regulation of actin filament depolymerization","BP","offspring",NA
+"GO:0030837","negative regulation of actin filament polymerization","BP","offspring",NA
+"GO:0051126","negative regulation of actin nucleation","BP","offspring",NA
+"GO:0046007","negative regulation of activated T cell proliferation","BP","offspring",NA
+"GO:1903392","negative regulation of adherens junction organization","BP","keyword,offspring",NA
+"GO:0046636","negative regulation of alpha-beta T cell activation","BP","offspring",NA
+"GO:0046639","negative regulation of alpha-beta T cell differentiation","BP","offspring",NA
+"GO:0046642","negative regulation of alpha-beta T cell proliferation","BP","offspring",NA
+"GO:0022001","negative regulation of anterior neural cell fate commitment of the neural plate","BP","keyword",NA
+"GO:0022003","negative regulation of anterior neural cell fate commitment of the neural plate by fibroblast growth factor receptor signaling pathway","BP","keyword,offspring",NA
+"GO:0032932","negative regulation of astral microtubule depolymerization","BP","offspring",NA
+"GO:0007027","negative regulation of axonemal microtubule depolymerization","BP","offspring",NA
+"GO:1902209","negative regulation of bacterial-type flagellum assembly","BP","offspring",NA
+"GO:2000813","negative regulation of barbed-end actin filament capping","BP","offspring",NA
+"GO:1904260","negative regulation of basement membrane assembly involved in embryonic body morphogenesis","BP","keyword,offspring",NA
+"GO:0045774","negative regulation of beta 2 integrin biosynthetic process","BP","keyword",NA
+"GO:1903347","negative regulation of bicellular tight junction assembly","BP","keyword,offspring",NA
+"GO:1904171","negative regulation of bleb assembly","BP","offspring",NA
+"GO:1905554","negative regulation of blood vessel branching","BP","offspring",NA
+"GO:0030712","negative regulation of border follicle cell delamination","BP","offspring",NA
+"GO:0072096","negative regulation of branch elongation involved in ureteric bud branching","BP","offspring",NA
+"GO:0061048","negative regulation of branching involved in lung morphogenesis","BP","offspring",NA
+"GO:0090191","negative regulation of branching involved in ureteric bud morphogenesis","BP","offspring",NA
+"GO:0061112","negative regulation of bud outgrowth involved in lung branching","BP","offspring",NA
+"GO:0046588","negative regulation of calcium-dependent cell-cell adhesion","BP","offspring",NA
+"GO:0051042","negative regulation of calcium-independent cell-cell adhesion","BP","offspring",NA
+"GO:0090090","negative regulation of canonical Wnt signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0062044","negative regulation of cardiac epithelial to mesenchymal transition","BP","offspring",NA
+"GO:1905305","negative regulation of cardiac myofibril assembly","BP","offspring",NA
+"GO:1905311","negative regulation of cardiac neural crest cell migration involved in outflow tract morphogenesis","BP","keyword,offspring",NA
+"GO:0033629","negative regulation of cell adhesion mediated by integrin","BP","keyword",NA
+"GO:1901889","negative regulation of cell junction assembly","BP","offspring",NA
+"GO:0022408","negative regulation of cell-cell adhesion","BP","offspring",NA
+"GO:2000048","negative regulation of cell-cell adhesion mediated by cadherin","BP","keyword,offspring",NA
+"GO:0033633","negative regulation of cell-cell adhesion mediated by integrin","BP","keyword,offspring",NA
+"GO:0021821","negative regulation of cell-glial cell adhesion involved in cerebral cortex lamination","BP","offspring",NA
+"GO:0001953","negative regulation of cell-matrix adhesion","BP","offspring",NA
+"GO:0150118","negative regulation of cell-substrate junction organization","BP","offspring",NA
+"GO:1903723","negative regulation of centriole elongation","BP","offspring",NA
+"GO:0046600","negative regulation of centriole replication","BP","offspring",NA
+"GO:1903126","negative regulation of centriole-centriole cohesion","BP","offspring",NA
+"GO:0046606","negative regulation of centrosome cycle","BP","offspring",NA
+"GO:0010826","negative regulation of centrosome duplication","BP","offspring",NA
+"GO:1902018","negative regulation of cilium assembly","BP","keyword,offspring",NA
+"GO:0003354","negative regulation of cilium movement","BP","keyword",NA
+"GO:1902020","negative regulation of cilium-dependent cell motility","BP","keyword",NA
+"GO:0033342","negative regulation of collagen binding","BP","keyword",NA
+"GO:0032966","negative regulation of collagen biosynthetic process","BP","keyword",NA
+"GO:0010711","negative regulation of collagen catabolic process","BP","keyword",NA
+"GO:1904027","negative regulation of collagen fibril organization","BP","keyword,offspring",NA
+"GO:0010713","negative regulation of collagen metabolic process","BP","keyword",NA
+"GO:0031138","negative regulation of conjugation with cellular fusion","BP","keyword",NA
+"GO:1901233","negative regulation of convergent extension involved in axis elongation","BP","keyword,offspring",NA
+"GO:1904104","negative regulation of convergent extension involved in gastrulation","BP","keyword,offspring",NA
+"GO:1904131","negative regulation of convergent extension involved in neural plate elongation","BP","keyword,offspring",NA
+"GO:1904137","negative regulation of convergent extension involved in notochord morphogenesis","BP","keyword,offspring",NA
+"GO:1904134","negative regulation of convergent extension involved in rhombomere morphogenesis","BP","keyword,offspring",NA
+"GO:1904128","negative regulation of convergent extension involved in somitogenesis","BP","keyword,offspring",NA
+"GO:2000432","negative regulation of cytokinesis, actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:0045584","negative regulation of cytotoxic T cell differentiation","BP","offspring",NA
+"GO:2000548","negative regulation of dendritic cell dendrite assembly","BP","offspring",NA
+"GO:1902951","negative regulation of dendritic spine maintenance","BP","offspring",NA
+"GO:0061002","negative regulation of dendritic spine morphogenesis","BP","offspring",NA
+"GO:0061391","negative regulation of direction of cell growth","BP","offspring",NA
+"GO:2000384","negative regulation of ectoderm development","BP","keyword,offspring",NA
+"GO:0042666","negative regulation of ectodermal cell fate specification","BP","offspring",NA
+"GO:0140050","negative regulation of endocardial cushion to mesenchymal transition","BP","offspring",NA
+"GO:2000801","negative regulation of endocardial cushion to mesenchymal transition involved in heart valve formation","BP","offspring",NA
+"GO:1905362","negative regulation of endosomal vesicle fusion","BP","keyword",NA
+"GO:1904905","negative regulation of endothelial cell-matrix adhesion via fibronectin","BP","keyword,offspring",NA
+"GO:1905955","negative regulation of endothelial tube morphogenesis","BP","offspring",NA
+"GO:1901188","negative regulation of ephrin receptor signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1904087","negative regulation of epiboly involved in gastrulation with mouth forming second","BP","offspring",NA
+"GO:1903682","negative regulation of epithelial cell-cell adhesion involved in epithelium migration","BP","offspring",NA
+"GO:0010719","negative regulation of epithelial to mesenchymal transition","BP","offspring",NA
+"GO:1905006","negative regulation of epithelial to mesenchymal transition involved in endocardial cushion formation","BP","offspring",NA
+"GO:1905277","negative regulation of epithelial tube formation","BP","offspring",NA
+"GO:0034119","negative regulation of erythrocyte aggregation","BP","offspring",NA
+"GO:1903904","negative regulation of establishment of T cell polarity","BP","offspring",NA
+"GO:2000783","negative regulation of establishment of cell polarity regulating cell shape","BP","offspring",NA
+"GO:2000750","negative regulation of establishment or maintenance of bipolar cell polarity regulating cell shape","BP","offspring",NA
+"GO:2000770","negative regulation of establishment or maintenance of cell polarity regulating cell shape","BP","offspring",NA
+"GO:1904890","negative regulation of excitatory synapse assembly","BP","offspring",NA
+"GO:1905811","negative regulation of excitatory synapse pruning","BP","offspring",NA
+"GO:1901202","negative regulation of extracellular matrix assembly","BP","keyword,offspring",NA
+"GO:0003332","negative regulation of extracellular matrix constituent secretion","BP","keyword,offspring",NA
+"GO:0010716","negative regulation of extracellular matrix disassembly","BP","keyword,offspring",NA
+"GO:1903054","negative regulation of extracellular matrix organization","BP","keyword,offspring",NA
+"GO:0033086","negative regulation of extrathymic T cell differentiation","BP","offspring",NA
+"GO:0040037","negative regulation of fibroblast growth factor receptor signaling pathway","BP","offspring",NA
+"GO:2000314","negative regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation","BP","keyword,offspring",NA
+"GO:2000703","negative regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation","BP","offspring",NA
+"GO:2000414","negative regulation of fibronectin-dependent thymocyte migration","BP","keyword",NA
+"GO:0051490","negative regulation of filopodium assembly","BP","offspring",NA
+"GO:0060257","negative regulation of flocculation","BP","offspring",NA
+"GO:0051895","negative regulation of focal adhesion assembly","BP","keyword,offspring",NA
+"GO:0120184","negative regulation of focal adhesion disassembly","BP","keyword,offspring",NA
+"GO:0090339","negative regulation of formin-nucleated actin cable assembly","BP","keyword,offspring",NA
+"GO:0035157","negative regulation of fusion cell fate specification","BP","keyword",NA
+"GO:0043013","negative regulation of fusion of sperm to egg plasma membrane","BP","keyword",NA
+"GO:1903914","negative regulation of fusion of virus membrane with host plasma membrane","BP","keyword",NA
+"GO:0046644","negative regulation of gamma-delta T cell activation","BP","offspring",NA
+"GO:2001192","negative regulation of gamma-delta T cell activation involved in immune response","BP","offspring",NA
+"GO:0045587","negative regulation of gamma-delta T cell differentiation","BP","offspring",NA
+"GO:0046647","negative regulation of gamma-delta T cell proliferation","BP","offspring",NA
+"GO:1903597","negative regulation of gap junction assembly","BP","offspring",NA
+"GO:2000734","negative regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation","BP","offspring",NA
+"GO:1901208","negative regulation of heart looping","BP","offspring",NA
+"GO:0034115","negative regulation of heterotypic cell-cell adhesion","BP","offspring",NA
+"GO:1990787","negative regulation of hh target transcription factor activity","BP","offspring",NA
+"GO:0035331","negative regulation of hippo signaling","BP","keyword",NA
+"GO:1903386","negative regulation of homophilic cell adhesion","BP","offspring",NA
+"GO:0034111","negative regulation of homotypic cell-cell adhesion","BP","offspring",NA
+"GO:0033087","negative regulation of immature T cell proliferation","BP","offspring",NA
+"GO:0033088","negative regulation of immature T cell proliferation in thymus","BP","offspring",NA
+"GO:0010515","negative regulation of induction of conjugation with cellular fusion","BP","keyword",NA
+"GO:1905703","negative regulation of inhibitory synapse assembly","BP","offspring",NA
+"GO:0033624","negative regulation of integrin activation","BP","keyword",NA
+"GO:0045720","negative regulation of integrin biosynthetic process","BP","keyword",NA
+"GO:2001045","negative regulation of integrin-mediated signaling pathway","BP","keyword",NA
+"GO:1905797","negative regulation of intraciliary anterograde transport","BP","offspring",NA
+"GO:1905800","negative regulation of intraciliary retrograde transport","BP","offspring",NA
+"GO:0010593","negative regulation of lamellipodium assembly","BP","offspring",NA
+"GO:1904998","negative regulation of leukocyte adhesion to arterial endothelial cell","BP","offspring",NA
+"GO:1904995","negative regulation of leukocyte adhesion to vascular endothelial cell","BP","offspring",NA
+"GO:1903038","negative regulation of leukocyte cell-cell adhesion","BP","offspring",NA
+"GO:1903237","negative regulation of leukocyte tethering or rolling","BP","offspring",NA
+"GO:0160078","negative regulation of lipid droplet fusion","BP","keyword",NA
+"GO:0034240","negative regulation of macrophage fusion","BP","keyword",NA
+"GO:0061362","negative regulation of maintenance of bipolar cell polarity regulating cell shape","BP","offspring",NA
+"GO:1902120","negative regulation of meiotic spindle elongation","BP","offspring",NA
+"GO:0043381","negative regulation of memory T cell differentiation","BP","offspring",NA
+"GO:0003340","negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis","BP","offspring",NA
+"GO:0007026","negative regulation of microtubule depolymerization","BP","offspring",NA
+"GO:1905833","negative regulation of microtubule nucleation","BP","offspring",NA
+"GO:0031115","negative regulation of microtubule polymerization","BP","offspring",NA
+"GO:0031111","negative regulation of microtubule polymerization or depolymerization","BP","offspring",NA
+"GO:1903697","negative regulation of microvillus assembly","BP","offspring",NA
+"GO:0010637","negative regulation of mitochondrial fusion","BP","keyword",NA
+"GO:1903500","negative regulation of mitotic actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:1903472","negative regulation of mitotic actomyosin contractile ring contraction","BP","keyword,offspring",NA
+"GO:0046603","negative regulation of mitotic centrosome separation","BP","offspring",NA
+"GO:1902845","negative regulation of mitotic spindle elongation","BP","offspring",NA
+"GO:0110163","negative regulation of mitotic spindle elongation (spindle phase three)","BP","offspring",NA
+"GO:0110160","negative regulation of mitotic spindle formation (spindle phase one)","BP","offspring",NA
+"GO:0010697","negative regulation of mitotic spindle pole body separation","BP","offspring",NA
+"GO:1900624","negative regulation of monocyte aggregation","BP","offspring",NA
+"GO:1905331","negative regulation of morphogenesis of an epithelium","BP","offspring",NA
+"GO:1905504","negative regulation of motile cilium assembly","BP","keyword,offspring",NA
+"GO:1901740","negative regulation of myoblast fusion","BP","keyword",NA
+"GO:1905510","negative regulation of myosin II filament assembly","BP","offspring",NA
+"GO:1904900","negative regulation of myosin II filament organization","BP","offspring",NA
+"GO:1902842","negative regulation of netrin-activated signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1905293","negative regulation of neural crest cell differentiation","BP","keyword,offspring",NA
+"GO:1905296","negative regulation of neural crest cell fate specification","BP","keyword,offspring",NA
+"GO:0090301","negative regulation of neural crest formation","BP","keyword,offspring",NA
+"GO:1904397","negative regulation of neuromuscular junction development","BP","offspring",NA
+"GO:2000429","negative regulation of neutrophil aggregation","BP","offspring",NA
+"GO:2000051","negative regulation of non-canonical Wnt signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1902856","negative regulation of non-motile cilium assembly","BP","keyword,offspring",NA
+"GO:1902839","negative regulation of nuclear migration along microtubule","BP","keyword,offspring",NA
+"GO:1902853","negative regulation of nuclear migration during mitotic telophase","BP","keyword,offspring",NA
+"GO:1904119","negative regulation of otic vesicle morphogenesis","BP","offspring",NA
+"GO:0048347","negative regulation of paraxial mesodermal cell fate determination","BP","offspring",NA
+"GO:0048351","negative regulation of paraxial mesodermal cell fate specification","BP","offspring",NA
+"GO:0090029","negative regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:0120033","negative regulation of plasma membrane bounded cell projection assembly","BP","offspring",NA
+"GO:0090331","negative regulation of platelet aggregation","BP","offspring",NA
+"GO:0160019","negative regulation of platelet rolling","BP","offspring",NA
+"GO:0030861","negative regulation of polarized epithelial cell differentiation","BP","offspring",NA
+"GO:1902233","negative regulation of positive thymic T cell selection","BP","offspring",NA
+"GO:0160037","negative regulation of postsynaptic density assembly","BP","offspring",NA
+"GO:1905875","negative regulation of postsynaptic density organization","BP","offspring",NA
+"GO:1901627","negative regulation of postsynaptic membrane organization","BP","offspring",NA
+"GO:1905607","negative regulation of presynapse assembly","BP","offspring",NA
+"GO:1905519","negative regulation of presynaptic active zone assembly","BP","offspring",NA
+"GO:1901630","negative regulation of presynaptic membrane organization","BP","offspring",NA
+"GO:2000175","negative regulation of pro-T cell differentiation","BP","offspring",NA
+"GO:0060686","negative regulation of prostatic bud formation","BP","offspring",NA
+"GO:1904703","negative regulation of protein localization to adherens junction","BP","keyword",NA
+"GO:0110084","negative regulation of protein localization to cell division site involved in mitotic actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:1903568","negative regulation of protein localization to ciliary membrane","BP","keyword",NA
+"GO:1903565","negative regulation of protein localization to cilium","BP","keyword",NA
+"GO:0140435","negative regulation of protein localization to meiotic spindle pole body","BP","offspring",NA
+"GO:0031273","negative regulation of pseudopodium assembly","BP","offspring",NA
+"GO:0045590","negative regulation of regulatory T cell differentiation","BP","offspring",NA
+"GO:1900053","negative regulation of retinoic acid biosynthetic process","BP","keyword,offspring",NA
+"GO:0048387","negative regulation of retinoic acid receptor signaling pathway","BP","broad_pathway,keyword,offspring",NA
+"GO:1900028","negative regulation of ruffle assembly","BP","offspring",NA
+"GO:0060299","negative regulation of sarcomere organization","BP","offspring",NA
+"GO:2001261","negative regulation of semaphorin-plexin signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0031030","negative regulation of septation initiation signaling","BP","offspring",NA
+"GO:0060240","negative regulation of signal transduction involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:1904394","negative regulation of skeletal muscle acetylcholine-gated channel clustering","BP","offspring",NA
+"GO:0051058","negative regulation of small GTPase mediated signal transduction","BP","offspring",NA
+"GO:2000098","negative regulation of smooth muscle cell-matrix adhesion","BP","offspring",NA
+"GO:0045879","negative regulation of smoothened signaling pathway","BP","offspring",NA
+"GO:1901621","negative regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning","BP","offspring",NA
+"GO:0021914","negative regulation of smoothened signaling pathway involved in ventral spinal cord patterning","BP","offspring",NA
+"GO:1905831","negative regulation of spindle assembly","BP","offspring",NA
+"GO:0051497","negative regulation of stress fiber assembly","BP","offspring",NA
+"GO:0051964","negative regulation of synapse assembly","BP","offspring",NA
+"GO:2000297","negative regulation of synapse maturation","BP","offspring",NA
+"GO:1905809","negative regulation of synapse organization","BP","offspring",NA
+"GO:1905807","negative regulation of synapse pruning","BP","offspring",NA
+"GO:0051826","negative regulation of synapse structural plasticity","BP","offspring",NA
+"GO:0045886","negative regulation of synaptic assembly at neuromuscular junction","BP","offspring",NA
+"GO:0031631","negative regulation of synaptic vesicle fusion to presynaptic active zone membrane","BP","keyword",NA
+"GO:0034242","negative regulation of syncytium formation by plasma membrane fusion","BP","keyword",NA
+"GO:1901613","negative regulation of terminal button organization","BP","offspring",NA
+"GO:2000399","negative regulation of thymocyte aggregation","BP","offspring",NA
+"GO:1905074","negative regulation of tight junction disassembly","BP","keyword,offspring",NA
+"GO:1903657","negative regulation of type IV pilus biogenesis","BP","offspring",NA
+"GO:0061192","negative regulation of vacuole fusion, non-autophagic","BP","keyword",NA
+"GO:0031339","negative regulation of vesicle fusion","BP","keyword",NA
+"GO:0106215","negative regulation of vesicle fusion with Golgi apparatus","BP","keyword",NA
+"GO:1903690","negative regulation of wound healing, spreading of epidermal cells","BP","offspring",NA
+"GO:0035849","nephric duct elongation","BP","offspring",NA
+"GO:0072179","nephric duct formation","BP","offspring",NA
+"GO:0072178","nephric duct morphogenesis","BP","offspring",NA
+"GO:0036059","nephrocyte diaphragm assembly","BP","offspring",NA
+"GO:0072088","nephron epithelium morphogenesis","BP","offspring",NA
+"GO:0072079","nephron tubule formation","BP","offspring",NA
+"GO:0072078","nephron tubule morphogenesis","BP","offspring",NA
+"GO:0038007","netrin-activated signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0036032","neural crest cell delamination","BP","keyword,offspring",NA
+"GO:0014032","neural crest cell development","BP","keyword,offspring",NA
+"GO:0014033","neural crest cell differentiation","BP","keyword,seed",NA
+"GO:1902638","neural crest cell differentiation involved in parathyroid gland development","BP","keyword,offspring",NA
+"GO:1902637","neural crest cell differentiation involved in thymus development","BP","keyword,offspring",NA
+"GO:0014034","neural crest cell fate commitment","BP","keyword,offspring",NA
+"GO:0014035","neural crest cell fate determination","BP","keyword,offspring",NA
+"GO:0014036","neural crest cell fate specification","BP","keyword,offspring",NA
+"GO:0001755","neural crest cell migration","BP","keyword,offspring,seed",NA
+"GO:1901166","neural crest cell migration involved in autonomic nervous system development","BP","keyword,offspring",NA
+"GO:0003147","neural crest cell migration involved in heart formation","BP","keyword,offspring",NA
+"GO:1903045","neural crest cell migration involved in sympathetic nervous system development","BP","keyword,offspring",NA
+"GO:0014029","neural crest formation","BP","keyword,offspring",NA
+"GO:0060943","neural crest-derived cardiac fibroblast cell development","BP","keyword",NA
+"GO:0060942","neural crest-derived cardiac fibroblast cell differentiation","BP","keyword",NA
+"GO:0060944","neural crest-derived cardiac fibroblast cell fate commitment","BP","keyword",NA
+"GO:0060954","neural crest-derived cardiac glial cell development","BP","keyword",NA
+"GO:0060951","neural crest-derived cardiac glial cell differentiation","BP","keyword",NA
+"GO:0060955","neural crest-derived cardiac glial cell fate commitment","BP","keyword",NA
+"GO:0021503","neural fold bending","BP","keyword,offspring,seed",NA
+"GO:0021502","neural fold elevation formation","BP","keyword,offspring,seed",NA
+"GO:0021505","neural fold folding","BP","keyword,offspring,seed",NA
+"GO:0001842","neural fold formation","BP","keyword,offspring",NA
+"GO:0021504","neural fold hinge point formation","BP","keyword,offspring,seed",NA
+"GO:0014025","neural keel formation","BP","offspring",NA
+"GO:0021999","neural plate anterior/posterior regionalization","BP","keyword",NA
+"GO:0021997","neural plate axis specification","BP","keyword",NA
+"GO:0001840","neural plate development","BP","keyword",NA
+"GO:0014022","neural plate elongation","BP","keyword,offspring",NA
+"GO:0021990","neural plate formation","BP","keyword,offspring,seed",NA
+"GO:0021998","neural plate mediolateral regionalization","BP","keyword",NA
+"GO:0001839","neural plate morphogenesis","BP","keyword,offspring,seed",NA
+"GO:0060896","neural plate pattern specification","BP","keyword",NA
+"GO:0060897","neural plate regionalization","BP","keyword",NA
+"GO:0021991","neural plate thickening","BP","keyword,offspring",NA
+"GO:0014023","neural rod formation","BP","offspring",NA
+"GO:0001843","neural tube closure","BP","keyword,offspring,seed",NA
+"GO:0021915","neural tube development","BP","seed",NA
+"GO:0001841","neural tube formation","BP","offspring,seed",NA
+"GO:0021532","neural tube patterning","BP","offspring",NA
+"GO:0097115","neurexin clustering involved in presynaptic membrane assembly","BP","offspring",NA
+"GO:0060234","neuroblast delamination","BP","offspring",NA
+"GO:0097118","neuroligin clustering involved in postsynaptic membrane assembly","BP","offspring",NA
+"GO:0007528","neuromuscular junction development","BP","offspring",NA
+"GO:0098529","neuromuscular junction development, skeletal muscle fiber","BP","offspring",NA
+"GO:0007158","neuron cell-cell adhesion","BP","offspring",NA
+"GO:0021812","neuronal-glial interaction involved in cerebral cortex radial glia guided migration","BP","offspring",NA
+"GO:0021944","neuronal-glial interaction involved in hindbrain glial-mediated radial cell migration","BP","offspring",NA
+"GO:0021995","neuropore closure","BP","keyword,offspring,seed",NA
+"GO:0072578","neurotransmitter-gated ion channel clustering","BP","offspring",NA
+"GO:0070488","neutrophil aggregation","BP","offspring",NA
+"GO:0035567","non-canonical Wnt signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0061341","non-canonical Wnt signaling pathway involved in heart development","BP","broad_pathway,keyword",NA
+"GO:1905515","non-motile cilium assembly","BP","keyword,offspring",NA
+"GO:0060035","notochord cell development","BP","keyword,offspring",NA
+"GO:0060034","notochord cell differentiation","BP","keyword,offspring",NA
+"GO:0060036","notochord cell vacuolation","BP","keyword,offspring",NA
+"GO:0030903","notochord development","BP","keyword,seed",NA
+"GO:0014028","notochord formation","BP","keyword,offspring",NA
+"GO:0048570","notochord morphogenesis","BP","keyword,offspring",NA
+"GO:0060032","notochord regression","BP","keyword,offspring",NA
+"GO:0035191","nuclear axial expansion","BP","offspring",NA
+"GO:0035192","nuclear cortical migration","BP","offspring",NA
+"GO:0000740","nuclear membrane fusion","BP","keyword",NA
+"GO:0048288","nuclear membrane fusion involved in karyogamy","BP","keyword",NA
+"GO:0007097","nuclear migration","BP","keyword,seed",NA
+"GO:0031022","nuclear migration along microfilament","BP","keyword,offspring",NA
+"GO:0030473","nuclear migration along microtubule","BP","keyword,offspring",NA
+"GO:0098863","nuclear migration by microtubule mediated pushing forces","BP","keyword,offspring",NA
+"GO:0090561","nuclear migration during mitotic telophase","BP","keyword,offspring",NA
+"GO:0000743","nuclear migration involved in conjugation with cellular fusion","BP","keyword,offspring",NA
+"GO:0000745","nuclear migration involved in conjugation with mutual genetic exchange","BP","keyword,offspring",NA
+"GO:0023002","nuclear migration to embryo sac poles","BP","keyword,offspring",NA
+"GO:0023003","nuclear migration to the embryo sac center","BP","keyword,offspring",NA
+"GO:0021817","nucleokinesis involved in cell motility in cerebral cortex radial glia guided migration","BP","offspring",NA
+"GO:0060233","oenocyte delamination","BP","offspring",NA
+"GO:0016318","ommatidial rotation","BP","offspring",NA
+"GO:0016325","oocyte microtubule cytoskeleton organization","BP","offspring",NA
+"GO:0008103","oocyte microtubule cytoskeleton polarization","BP","offspring",NA
+"GO:0007312","oocyte nucleus migration involved in oocyte dorsal/ventral axis specification","BP","offspring",NA
+"GO:0003408","optic cup formation involved in camera-type eye development","BP","offspring",NA
+"GO:0002072","optic cup morphogenesis involved in camera-type eye development","BP","offspring",NA
+"GO:0003409","optic cup structural organization","BP","offspring",NA
+"GO:0048284","organelle fusion","BP","keyword",NA
+"GO:0090174","organelle membrane fusion","BP","keyword",NA
+"GO:0060488","orthogonal dichotomous subdivision of terminal units involved in lung branching morphogenesis","BP","offspring",NA
+"GO:0072675","osteoclast fusion","BP","keyword",NA
+"GO:0043049","otic placode formation","BP","offspring",NA
+"GO:0030916","otic vesicle formation","BP","offspring",NA
+"GO:0071600","otic vesicle morphogenesis","BP","offspring",NA
+"GO:0036158","outer dynein arm assembly","BP","offspring",NA
+"GO:0061131","pancreas field specification","BP","offspring",NA
+"GO:0061132","pancreas induction","BP","offspring",NA
+"GO:0061130","pancreatic bud formation","BP","offspring",NA
+"GO:0120268","paraflagellar rod assembly","BP","offspring",NA
+"GO:0030046","parallel actin filament bundle assembly","BP","offspring",NA
+"GO:0061204","paramyosin filament assembly or disassembly","BP","offspring",NA
+"GO:0030913","paranodal junction assembly","BP","offspring",NA
+"GO:1990227","paranodal junction maintenance","BP","offspring",NA
+"GO:1990277","parasexual reproduction with cellular fusion","BP","keyword",NA
+"GO:0048339","paraxial mesoderm development","BP","keyword,seed",NA
+"GO:0048341","paraxial mesoderm formation","BP","keyword,offspring",NA
+"GO:0048340","paraxial mesoderm morphogenesis","BP","keyword,offspring",NA
+"GO:0048352","paraxial mesoderm structural organization","BP","keyword,offspring",NA
+"GO:0048342","paraxial mesodermal cell differentiation","BP","offspring",NA
+"GO:0048343","paraxial mesodermal cell fate commitment","BP","offspring",NA
+"GO:0048344","paraxial mesodermal cell fate determination","BP","offspring",NA
+"GO:0048348","paraxial mesodermal cell fate specification","BP","offspring",NA
+"GO:0071432","peptide mating pheromone maturation involved in positive regulation of conjugation with cellular fusion","BP","keyword",NA
+"GO:0003344","pericardium morphogenesis","BP","offspring",NA
+"GO:0060645","peripheral mammary gland bud epithelial cell differentiation","BP","offspring",NA
+"GO:0032290","peripheral nervous system myelin formation","BP","offspring",NA
+"GO:0032287","peripheral nervous system myelin maintenance","BP","offspring",NA
+"GO:0090385","phagosome-lysosome fusion","BP","keyword",NA
+"GO:0090389","phagosome-lysosome fusion involved in apoptotic cell clearance","BP","keyword",NA
+"GO:0000750","pheromone-dependent signal transduction involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:0080175","phragmoplast microtubule organization","BP","offspring",NA
+"GO:0009297","pilus assembly","BP","offspring",NA
+"GO:0061345","planar cell polarity pathway involved in cardiac muscle cell fate commitment","BP","keyword,offspring",NA
+"GO:0060489","planar dichotomous subdivision of terminal units involved in lung branching morphogenesis","BP","offspring",NA
+"GO:0120031","plasma membrane bounded cell projection assembly","BP","offspring",NA
+"GO:0045026","plasma membrane fusion","BP","keyword",NA
+"GO:0032220","plasma membrane fusion involved in cytogamy","BP","keyword",NA
+"GO:0009663","plasmodesma organization","BP","offspring",NA
+"GO:0070527","platelet aggregation","BP","offspring",NA
+"GO:0160015","platelet rolling","BP","offspring",NA
+"GO:0070462","plus-end specific microtubule depolymerization","BP","offspring",NA
+"GO:0051694","pointed-end actin filament capping","BP","offspring",NA
+"GO:0051696","pointed-end actin filament uncapping","BP","offspring",NA
+"GO:0010197","polar nucleus fusion","BP","keyword",NA
+"GO:0030859","polarized epithelial cell differentiation","BP","offspring",NA
+"GO:0061865","polarized secretion of basement membrane proteins in epithelium","BP","keyword,offspring",NA
+"GO:0009876","pollen adhesion","BP","offspring",NA
+"GO:0009865","pollen tube adhesion","BP","offspring",NA
+"GO:1904719","positive regulation of AMPA glutamate receptor clustering","BP","offspring",NA
+"GO:0032014","positive regulation of ARF protein signal transduction","BP","offspring",NA
+"GO:2000601","positive regulation of Arp2/3 complex-mediated actin nucleation","BP","offspring",NA
+"GO:1900144","positive regulation of BMP secretion","BP","keyword",NA
+"GO:0030513","positive regulation of BMP signaling pathway","BP","broad_pathway,keyword,offspring",NA
+"GO:0032831","positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation","BP","offspring",NA
+"GO:0032834","positive regulation of CD4-positive, CD25-positive, alpha-beta regulatory T cell differentiation involved in immune response","BP","offspring",NA
+"GO:2000516","positive regulation of CD4-positive, alpha-beta T cell activation","BP","offspring",NA
+"GO:1900281","positive regulation of CD4-positive, alpha-beta T cell costimulation","BP","offspring",NA
+"GO:0043372","positive regulation of CD4-positive, alpha-beta T cell differentiation","BP","offspring",NA
+"GO:2000563","positive regulation of CD4-positive, alpha-beta T cell proliferation","BP","offspring",NA
+"GO:2001187","positive regulation of CD8-positive, alpha-beta T cell activation","BP","offspring",NA
+"GO:0043378","positive regulation of CD8-positive, alpha-beta T cell differentiation","BP","offspring",NA
+"GO:2000566","positive regulation of CD8-positive, alpha-beta T cell proliferation","BP","offspring",NA
+"GO:1901186","positive regulation of ERBB signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1905580","positive regulation of ERBB3 signaling pathway","BP","broad_pathway",NA
+"GO:0048215","positive regulation of Golgi vesicle fusion to target membrane","BP","keyword",NA
+"GO:0090080","positive regulation of MAPKKK cascade by fibroblast growth factor receptor signaling pathway","BP","offspring",NA
+"GO:0051135","positive regulation of NK T cell activation","BP","offspring",NA
+"GO:0051138","positive regulation of NK T cell differentiation","BP","offspring",NA
+"GO:0051142","positive regulation of NK T cell proliferation","BP","offspring",NA
+"GO:0045747","positive regulation of Notch signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0035022","positive regulation of Rac protein signal transduction","BP","offspring",NA
+"GO:0046579","positive regulation of Ras protein signal transduction","BP","offspring",NA
+"GO:0035025","positive regulation of Rho protein signal transduction","BP","offspring",NA
+"GO:0060391","positive regulation of SMAD protein signal transduction","BP","keyword",NA
+"GO:0014040","positive regulation of Schwann cell differentiation","BP","offspring",NA
+"GO:0050870","positive regulation of T cell activation","BP","offspring",NA
+"GO:2001190","positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell","BP","offspring",NA
+"GO:2000525","positive regulation of T cell costimulation","BP","offspring",NA
+"GO:0045582","positive regulation of T cell differentiation","BP","offspring",NA
+"GO:0033089","positive regulation of T cell differentiation in thymus","BP","offspring",NA
+"GO:0042103","positive regulation of T cell homeostatic proliferation","BP","offspring",NA
+"GO:0042102","positive regulation of T cell proliferation","BP","offspring",NA
+"GO:2000519","positive regulation of T-helper 1 cell activation","BP","offspring",NA
+"GO:0045627","positive regulation of T-helper 1 cell differentiation","BP","offspring",NA
+"GO:2000321","positive regulation of T-helper 17 cell differentiation","BP","offspring",NA
+"GO:2000330","positive regulation of T-helper 17 cell lineage commitment","BP","offspring",NA
+"GO:2000570","positive regulation of T-helper 2 cell activation","BP","offspring",NA
+"GO:0045630","positive regulation of T-helper 2 cell differentiation","BP","offspring",NA
+"GO:0045624","positive regulation of T-helper cell differentiation","BP","offspring",NA
+"GO:0061357","positive regulation of Wnt protein secretion","BP","keyword",NA
+"GO:0030177","positive regulation of Wnt signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0045813","positive regulation of Wnt signaling pathway, calcium modulating pathway","BP","broad_pathway,keyword",NA
+"GO:2000096","positive regulation of Wnt signaling pathway, planar cell polarity pathway","BP","broad_pathway,keyword,offspring",NA
+"GO:1904712","positive regulation of Wnt-Frizzled-LRP5/6 complex assembly","BP","keyword",NA
+"GO:0110056","positive regulation of actin filament annealing","BP","offspring",NA
+"GO:0032233","positive regulation of actin filament bundle assembly","BP","offspring",NA
+"GO:0030836","positive regulation of actin filament depolymerization","BP","offspring",NA
+"GO:0030838","positive regulation of actin filament polymerization","BP","offspring",NA
+"GO:0051127","positive regulation of actin nucleation","BP","offspring",NA
+"GO:0042104","positive regulation of activated T cell proliferation","BP","offspring",NA
+"GO:1903393","positive regulation of adherens junction organization","BP","keyword,offspring",NA
+"GO:0046635","positive regulation of alpha-beta T cell activation","BP","offspring",NA
+"GO:0046638","positive regulation of alpha-beta T cell differentiation","BP","offspring",NA
+"GO:0046641","positive regulation of alpha-beta T cell proliferation","BP","offspring",NA
+"GO:0110074","positive regulation of apical constriction involved in ventral furrow formation","BP","keyword,offspring",NA
+"GO:0160177","positive regulation of autophagosome-lysosome fusion","BP","keyword",NA
+"GO:1902210","positive regulation of bacterial-type flagellum assembly","BP","offspring",NA
+"GO:2000814","positive regulation of barbed-end actin filament capping","BP","offspring",NA
+"GO:1904261","positive regulation of basement membrane assembly involved in embryonic body morphogenesis","BP","keyword,offspring",NA
+"GO:0045775","positive regulation of beta 2 integrin biosynthetic process","BP","keyword",NA
+"GO:1903348","positive regulation of bicellular tight junction assembly","BP","keyword,offspring",NA
+"GO:1904172","positive regulation of bleb assembly","BP","offspring",NA
+"GO:1905555","positive regulation of blood vessel branching","BP","offspring",NA
+"GO:0030711","positive regulation of border follicle cell delamination","BP","offspring",NA
+"GO:0061047","positive regulation of branching involved in lung morphogenesis","BP","offspring",NA
+"GO:0090190","positive regulation of branching involved in ureteric bud morphogenesis","BP","offspring",NA
+"GO:0046587","positive regulation of calcium-dependent cell-cell adhesion","BP","offspring",NA
+"GO:0051041","positive regulation of calcium-independent cell-cell adhesion","BP","offspring",NA
+"GO:0090263","positive regulation of canonical Wnt signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0062043","positive regulation of cardiac epithelial to mesenchymal transition","BP","offspring",NA
+"GO:1905306","positive regulation of cardiac myofibril assembly","BP","offspring",NA
+"GO:1905312","positive regulation of cardiac neural crest cell migration involved in outflow tract morphogenesis","BP","keyword,offspring",NA
+"GO:0033630","positive regulation of cell adhesion mediated by integrin","BP","keyword",NA
+"GO:1901890","positive regulation of cell junction assembly","BP","offspring",NA
+"GO:0038090","positive regulation of cell migration by VEGF-activated platelet derived growth factor receptor signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0038091","positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0022409","positive regulation of cell-cell adhesion","BP","offspring",NA
+"GO:2000049","positive regulation of cell-cell adhesion mediated by cadherin","BP","keyword,offspring",NA
+"GO:0033634","positive regulation of cell-cell adhesion mediated by integrin","BP","keyword,offspring",NA
+"GO:0001954","positive regulation of cell-matrix adhesion","BP","offspring",NA
+"GO:0150117","positive regulation of cell-substrate junction organization","BP","offspring",NA
+"GO:1903724","positive regulation of centriole elongation","BP","offspring",NA
+"GO:0046601","positive regulation of centriole replication","BP","offspring",NA
+"GO:1903127","positive regulation of centriole-centriole cohesion","BP","offspring",NA
+"GO:0046607","positive regulation of centrosome cycle","BP","offspring",NA
+"GO:0010825","positive regulation of centrosome duplication","BP","offspring",NA
+"GO:0045724","positive regulation of cilium assembly","BP","keyword,offspring",NA
+"GO:0120030","positive regulation of cilium beat frequency involved in ciliary motility","BP","keyword",NA
+"GO:0003353","positive regulation of cilium movement","BP","keyword",NA
+"GO:2000155","positive regulation of cilium-dependent cell motility","BP","keyword",NA
+"GO:0032967","positive regulation of collagen biosynthetic process","BP","keyword",NA
+"GO:0120158","positive regulation of collagen catabolic process","BP","keyword",NA
+"GO:1904028","positive regulation of collagen fibril organization","BP","keyword,offspring",NA
+"GO:0010714","positive regulation of collagen metabolic process","BP","keyword",NA
+"GO:0031139","positive regulation of conjugation with cellular fusion","BP","keyword",NA
+"GO:1901234","positive regulation of convergent extension involved in axis elongation","BP","keyword,offspring",NA
+"GO:1904105","positive regulation of convergent extension involved in gastrulation","BP","keyword,offspring",NA
+"GO:1904132","positive regulation of convergent extension involved in neural plate elongation","BP","keyword,offspring",NA
+"GO:1904138","positive regulation of convergent extension involved in notochord morphogenesis","BP","keyword,offspring",NA
+"GO:1904135","positive regulation of convergent extension involved in rhombomere morphogenesis","BP","keyword,offspring",NA
+"GO:1904129","positive regulation of convergent extension involved in somitogenesis","BP","keyword,offspring",NA
+"GO:2000433","positive regulation of cytokinesis, actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:0045585","positive regulation of cytotoxic T cell differentiation","BP","offspring",NA
+"GO:2000549","positive regulation of dendritic cell dendrite assembly","BP","offspring",NA
+"GO:1902952","positive regulation of dendritic spine maintenance","BP","offspring",NA
+"GO:0061003","positive regulation of dendritic spine morphogenesis","BP","offspring",NA
+"GO:0061390","positive regulation of direction of cell growth","BP","offspring",NA
+"GO:2000385","positive regulation of ectoderm development","BP","keyword,offspring",NA
+"GO:0140051","positive regulation of endocardial cushion to mesenchymal transition","BP","offspring",NA
+"GO:2000802","positive regulation of endocardial cushion to mesenchymal transition involved in heart valve formation","BP","offspring",NA
+"GO:1905363","positive regulation of endosomal vesicle fusion","BP","keyword",NA
+"GO:0038033","positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1904906","positive regulation of endothelial cell-matrix adhesion via fibronectin","BP","keyword,offspring",NA
+"GO:1905956","positive regulation of endothelial tube morphogenesis","BP","offspring",NA
+"GO:1901189","positive regulation of ephrin receptor signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1904088","positive regulation of epiboly involved in gastrulation with mouth forming second","BP","offspring",NA
+"GO:0060504","positive regulation of epithelial cell proliferation involved in lung bud dilation","BP","offspring",NA
+"GO:1903683","positive regulation of epithelial cell-cell adhesion involved in epithelium migration","BP","offspring",NA
+"GO:0010718","positive regulation of epithelial to mesenchymal transition","BP","offspring",NA
+"GO:1905007","positive regulation of epithelial to mesenchymal transition involved in endocardial cushion formation","BP","offspring",NA
+"GO:1905278","positive regulation of epithelial tube formation","BP","offspring",NA
+"GO:0034120","positive regulation of erythrocyte aggregation","BP","offspring",NA
+"GO:1903905","positive regulation of establishment of T cell polarity","BP","offspring",NA
+"GO:0061161","positive regulation of establishment of bipolar cell polarity regulating cell shape","BP","offspring",NA
+"GO:2000784","positive regulation of establishment of cell polarity regulating cell shape","BP","offspring",NA
+"GO:2000247","positive regulation of establishment or maintenance of bipolar cell polarity regulating cell shape","BP","offspring",NA
+"GO:2000771","positive regulation of establishment or maintenance of cell polarity regulating cell shape","BP","offspring",NA
+"GO:1904891","positive regulation of excitatory synapse assembly","BP","offspring",NA
+"GO:1901203","positive regulation of extracellular matrix assembly","BP","keyword,offspring",NA
+"GO:0003331","positive regulation of extracellular matrix constituent secretion","BP","keyword,offspring",NA
+"GO:0090091","positive regulation of extracellular matrix disassembly","BP","keyword,offspring",NA
+"GO:1903055","positive regulation of extracellular matrix organization","BP","keyword,offspring",NA
+"GO:0033090","positive regulation of extrathymic T cell differentiation","BP","offspring",NA
+"GO:0045743","positive regulation of fibroblast growth factor receptor signaling pathway","BP","offspring",NA
+"GO:2000315","positive regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation","BP","keyword,offspring",NA
+"GO:2000704","positive regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation","BP","offspring",NA
+"GO:2000415","positive regulation of fibronectin-dependent thymocyte migration","BP","keyword",NA
+"GO:0051491","positive regulation of filopodium assembly","BP","offspring",NA
+"GO:1900735","positive regulation of flocculation","BP","offspring",NA
+"GO:0051894","positive regulation of focal adhesion assembly","BP","keyword,offspring",NA
+"GO:0120183","positive regulation of focal adhesion disassembly","BP","keyword,offspring",NA
+"GO:0090338","positive regulation of formin-nucleated actin cable assembly","BP","keyword,offspring",NA
+"GO:1903915","positive regulation of fusion of virus membrane with host plasma membrane","BP","keyword",NA
+"GO:0046645","positive regulation of gamma-delta T cell activation","BP","offspring",NA
+"GO:2001193","positive regulation of gamma-delta T cell activation involved in immune response","BP","offspring",NA
+"GO:0045588","positive regulation of gamma-delta T cell differentiation","BP","offspring",NA
+"GO:0046648","positive regulation of gamma-delta T cell proliferation","BP","offspring",NA
+"GO:1903598","positive regulation of gap junction assembly","BP","offspring",NA
+"GO:2000735","positive regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation","BP","offspring",NA
+"GO:1901209","positive regulation of heart looping","BP","offspring",NA
+"GO:0034116","positive regulation of heterotypic cell-cell adhesion","BP","offspring",NA
+"GO:0035332","positive regulation of hippo signaling","BP","keyword",NA
+"GO:1903387","positive regulation of homophilic cell adhesion","BP","offspring",NA
+"GO:0034112","positive regulation of homotypic cell-cell adhesion","BP","offspring",NA
+"GO:0033091","positive regulation of immature T cell proliferation","BP","offspring",NA
+"GO:0033092","positive regulation of immature T cell proliferation in thymus","BP","offspring",NA
+"GO:1900237","positive regulation of induction of conjugation with cellular fusion","BP","keyword",NA
+"GO:1905704","positive regulation of inhibitory synapse assembly","BP","offspring",NA
+"GO:0033625","positive regulation of integrin activation","BP","keyword",NA
+"GO:0033626","positive regulation of integrin activation by cell surface receptor linked signal transduction","BP","keyword",NA
+"GO:0045726","positive regulation of integrin biosynthetic process","BP","keyword",NA
+"GO:2001046","positive regulation of integrin-mediated signaling pathway","BP","keyword",NA
+"GO:1905798","positive regulation of intraciliary anterograde transport","BP","offspring",NA
+"GO:1905801","positive regulation of intraciliary retrograde transport","BP","offspring",NA
+"GO:0010592","positive regulation of lamellipodium assembly","BP","offspring",NA
+"GO:1904999","positive regulation of leukocyte adhesion to arterial endothelial cell","BP","offspring",NA
+"GO:1904996","positive regulation of leukocyte adhesion to vascular endothelial cell","BP","offspring",NA
+"GO:1903039","positive regulation of leukocyte cell-cell adhesion","BP","offspring",NA
+"GO:1903238","positive regulation of leukocyte tethering or rolling","BP","offspring",NA
+"GO:0034241","positive regulation of macrophage fusion","BP","keyword",NA
+"GO:0061361","positive regulation of maintenance of bipolar cell polarity regulating cell shape","BP","offspring",NA
+"GO:1902917","positive regulation of mating projection assembly","BP","offspring",NA
+"GO:2000568","positive regulation of memory T cell activation","BP","offspring",NA
+"GO:0043382","positive regulation of memory T cell differentiation","BP","offspring",NA
+"GO:0072108","positive regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis","BP","offspring",NA
+"GO:0060808","positive regulation of mesodermal to mesenchymal transition involved in gastrulation","BP","offspring",NA
+"GO:0035793","positive regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway","BP","broad_pathway",NA
+"GO:0031117","positive regulation of microtubule depolymerization","BP","offspring",NA
+"GO:0090063","positive regulation of microtubule nucleation","BP","offspring",NA
+"GO:0031116","positive regulation of microtubule polymerization","BP","offspring",NA
+"GO:0031112","positive regulation of microtubule polymerization or depolymerization","BP","offspring",NA
+"GO:1903698","positive regulation of microvillus assembly","BP","offspring",NA
+"GO:0010636","positive regulation of mitochondrial fusion","BP","keyword",NA
+"GO:1903501","positive regulation of mitotic actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:1903473","positive regulation of mitotic actomyosin contractile ring contraction","BP","keyword,offspring",NA
+"GO:0046604","positive regulation of mitotic centrosome separation","BP","offspring",NA
+"GO:1904687","positive regulation of mitotic spindle disassembly","BP","offspring",NA
+"GO:1902846","positive regulation of mitotic spindle elongation","BP","offspring",NA
+"GO:0110164","positive regulation of mitotic spindle elongation (spindle phase three)","BP","offspring",NA
+"GO:0110161","positive regulation of mitotic spindle formation (spindle phase one)","BP","offspring",NA
+"GO:0110028","positive regulation of mitotic spindle organization","BP","offspring",NA
+"GO:0010696","positive regulation of mitotic spindle pole body separation","BP","offspring",NA
+"GO:1900625","positive regulation of monocyte aggregation","BP","offspring",NA
+"GO:1905332","positive regulation of morphogenesis of an epithelium","BP","offspring",NA
+"GO:1905505","positive regulation of motile cilium assembly","BP","keyword,offspring",NA
+"GO:1901741","positive regulation of myoblast fusion","BP","keyword",NA
+"GO:1905511","positive regulation of myosin II filament assembly","BP","offspring",NA
+"GO:1904901","positive regulation of myosin II filament organization","BP","offspring",NA
+"GO:1902843","positive regulation of netrin-activated signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1905294","positive regulation of neural crest cell differentiation","BP","keyword,offspring",NA
+"GO:1905297","positive regulation of neural crest cell fate specification","BP","keyword,offspring",NA
+"GO:0090300","positive regulation of neural crest formation","BP","keyword,offspring",NA
+"GO:1904398","positive regulation of neuromuscular junction development","BP","offspring",NA
+"GO:2000430","positive regulation of neutrophil aggregation","BP","offspring",NA
+"GO:2000052","positive regulation of non-canonical Wnt signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1902857","positive regulation of non-motile cilium assembly","BP","keyword,offspring",NA
+"GO:1902840","positive regulation of nuclear migration along microtubule","BP","keyword,offspring",NA
+"GO:1902854","positive regulation of nuclear migration during mitotic telophase","BP","keyword,offspring",NA
+"GO:1904120","positive regulation of otic vesicle morphogenesis","BP","offspring",NA
+"GO:0048346","positive regulation of paraxial mesodermal cell fate determination","BP","offspring",NA
+"GO:0048350","positive regulation of paraxial mesodermal cell fate specification","BP","offspring",NA
+"GO:0090028","positive regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:0120034","positive regulation of plasma membrane bounded cell projection assembly","BP","offspring",NA
+"GO:1901731","positive regulation of platelet aggregation","BP","offspring",NA
+"GO:0160018","positive regulation of platelet rolling","BP","offspring",NA
+"GO:0030862","positive regulation of polarized epithelial cell differentiation","BP","offspring",NA
+"GO:1902234","positive regulation of positive thymic T cell selection","BP","offspring",NA
+"GO:0060787","positive regulation of posterior neural plate formation by fibroblast growth factor receptor signaling pathway","BP","keyword,offspring",NA
+"GO:0160036","positive regulation of postsynaptic density assembly","BP","offspring",NA
+"GO:1905876","positive regulation of postsynaptic density organization","BP","offspring",NA
+"GO:1901628","positive regulation of postsynaptic membrane organization","BP","offspring",NA
+"GO:1905608","positive regulation of presynapse assembly","BP","offspring",NA
+"GO:1905520","positive regulation of presynaptic active zone assembly","BP","offspring",NA
+"GO:1901631","positive regulation of presynaptic membrane organization","BP","offspring",NA
+"GO:2000176","positive regulation of pro-T cell differentiation","BP","offspring",NA
+"GO:1904704","positive regulation of protein localization to adherens junction","BP","keyword",NA
+"GO:0110083","positive regulation of protein localization to cell division site involved in mitotic actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:1903569","positive regulation of protein localization to ciliary membrane","BP","keyword",NA
+"GO:1903566","positive regulation of protein localization to cilium","BP","keyword",NA
+"GO:0140434","positive regulation of protein localization to meiotic spindle pole body","BP","offspring",NA
+"GO:0031274","positive regulation of pseudopodium assembly","BP","offspring",NA
+"GO:0045591","positive regulation of regulatory T cell differentiation","BP","offspring",NA
+"GO:1900054","positive regulation of retinoic acid biosynthetic process","BP","keyword,offspring",NA
+"GO:0048386","positive regulation of retinoic acid receptor signaling pathway","BP","broad_pathway,keyword,offspring",NA
+"GO:1900029","positive regulation of ruffle assembly","BP","offspring",NA
+"GO:0060298","positive regulation of sarcomere organization","BP","offspring",NA
+"GO:2001262","positive regulation of semaphorin-plexin signaling pathway","BP","broad_pathway,keyword",NA
+"GO:2000764","positive regulation of semaphorin-plexin signaling pathway involved in outflow tract morphogenesis","BP","broad_pathway,keyword",NA
+"GO:0031031","positive regulation of septation initiation signaling","BP","offspring",NA
+"GO:0060239","positive regulation of signal transduction involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:1904395","positive regulation of skeletal muscle acetylcholine-gated channel clustering","BP","offspring",NA
+"GO:0051057","positive regulation of small GTPase mediated signal transduction","BP","offspring",NA
+"GO:1905609","positive regulation of smooth muscle cell-matrix adhesion","BP","offspring",NA
+"GO:0045880","positive regulation of smoothened signaling pathway","BP","offspring",NA
+"GO:1901622","positive regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning","BP","offspring",NA
+"GO:1905832","positive regulation of spindle assembly","BP","offspring",NA
+"GO:0051496","positive regulation of stress fiber assembly","BP","offspring",NA
+"GO:0051965","positive regulation of synapse assembly","BP","offspring",NA
+"GO:0090129","positive regulation of synapse maturation","BP","offspring",NA
+"GO:0090127","positive regulation of synapse maturation by synaptic transmission","BP","offspring",NA
+"GO:1905808","positive regulation of synapse pruning","BP","offspring",NA
+"GO:0051835","positive regulation of synapse structural plasticity","BP","offspring",NA
+"GO:0045887","positive regulation of synaptic assembly at neuromuscular junction","BP","offspring",NA
+"GO:0031632","positive regulation of synaptic vesicle fusion to presynaptic active zone membrane","BP","keyword",NA
+"GO:0060143","positive regulation of syncytium formation by plasma membrane fusion","BP","keyword",NA
+"GO:1901614","positive regulation of terminal button organization","BP","offspring",NA
+"GO:2000400","positive regulation of thymocyte aggregation","BP","offspring",NA
+"GO:1905075","positive regulation of tight junction disassembly","BP","keyword,offspring",NA
+"GO:0007221","positive regulation of transcription of Notch receptor target","BP","keyword",NA
+"GO:1903658","positive regulation of type IV pilus biogenesis","BP","offspring",NA
+"GO:0072107","positive regulation of ureteric bud formation","BP","offspring",NA
+"GO:0061191","positive regulation of vacuole fusion, non-autophagic","BP","keyword",NA
+"GO:0031340","positive regulation of vesicle fusion","BP","keyword",NA
+"GO:0106216","positive regulation of vesicle fusion with Golgi apparatus","BP","keyword",NA
+"GO:1903691","positive regulation of wound healing, spreading of epidermal cells","BP","offspring",NA
+"GO:0048616","post-embryonic anterior midgut (ectodermal) morphogenesis","BP","offspring",NA
+"GO:0007374","posterior midgut invagination","BP","offspring",NA
+"GO:0090018","posterior neural plate formation","BP","keyword,offspring",NA
+"GO:0021507","posterior neuropore closure","BP","keyword,offspring,seed",NA
+"GO:0099068","postsynapse assembly","BP","offspring",NA
+"GO:0099173","postsynapse organization","BP","offspring",NA
+"GO:0098974","postsynaptic actin cytoskeleton organization","BP","offspring",NA
+"GO:0099188","postsynaptic cytoskeleton organization","BP","offspring",NA
+"GO:0097107","postsynaptic density assembly","BP","offspring",NA
+"GO:0097106","postsynaptic density organization","BP","offspring",NA
+"GO:0097119","postsynaptic density protein 95 clustering","BP","offspring",NA
+"GO:0099185","postsynaptic intermediate filament cytoskeleton organization","BP","offspring",NA
+"GO:0097104","postsynaptic membrane assembly","BP","offspring",NA
+"GO:0001941","postsynaptic membrane organization","BP","offspring",NA
+"GO:0098698","postsynaptic specialization assembly","BP","offspring",NA
+"GO:0099084","postsynaptic specialization organization","BP","offspring",NA
+"GO:0099190","postsynaptic spectrin-associated cytoskeleton organization","BP","offspring",NA
+"GO:0060878","pouch outgrowth involved in semicircular canal formation","BP","offspring",NA
+"GO:0072035","pre-tubular aggregate formation","BP","offspring",NA
+"GO:0099054","presynapse assembly","BP","offspring",NA
+"GO:0099172","presynapse organization","BP","offspring",NA
+"GO:0099140","presynaptic actin cytoskeleton organization","BP","offspring",NA
+"GO:1904071","presynaptic active zone assembly","BP","offspring",NA
+"GO:1904072","presynaptic active zone disassembly","BP","offspring",NA
+"GO:1990709","presynaptic active zone organization","BP","offspring",NA
+"GO:0099187","presynaptic cytoskeleton organization","BP","offspring",NA
+"GO:0097105","presynaptic membrane assembly","BP","offspring",NA
+"GO:0097090","presynaptic membrane organization","BP","offspring",NA
+"GO:0007428","primary branching, open tracheal system","BP","offspring",NA
+"GO:0060431","primary lung bud formation","BP","offspring",NA
+"GO:0014020","primary neural tube formation","BP","offspring",NA
+"GO:0060516","primary prostatic bud elongation","BP","offspring",NA
+"GO:0060682","primary ureteric bud growth","BP","offspring",NA
+"GO:0120211","proacrosomal vesicle fusion","BP","keyword",NA
+"GO:0003345","proepicardium cell migration involved in pericardium morphogenesis","BP","offspring",NA
+"GO:0160059","programmed cell death in response to retinoic acid","BP","keyword",NA
+"GO:0021994","progression of neural tube closure","BP","keyword,offspring,seed",NA
+"GO:0039013","pronephric distal tubule morphogenesis","BP","offspring",NA
+"GO:0039023","pronephric duct morphogenesis","BP","offspring",NA
+"GO:0039006","pronephric nephron tubule formation","BP","offspring",NA
+"GO:0039008","pronephric nephron tubule morphogenesis","BP","offspring",NA
+"GO:0039011","pronephric proximal tubule morphogenesis","BP","offspring",NA
+"GO:0007344","pronuclear fusion","BP","keyword",NA
+"GO:0035046","pronuclear migration","BP","offspring",NA
+"GO:0060527","prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis","BP","offspring",NA
+"GO:0060523","prostate epithelial cord elongation","BP","offspring",NA
+"GO:0060515","prostate field specification","BP","offspring",NA
+"GO:0060740","prostate gland epithelium morphogenesis","BP","offspring",NA
+"GO:0060526","prostate glandular acinus morphogenesis","BP","offspring",NA
+"GO:0060514","prostate induction","BP","offspring",NA
+"GO:0060513","prostatic bud formation","BP","offspring",NA
+"GO:0090251","protein localization involved in establishment of planar polarity","BP","offspring",NA
+"GO:1990179","protein localization to actomyosin contractile ring","BP","keyword",NA
+"GO:0071896","protein localization to adherens junction","BP","keyword",NA
+"GO:1902396","protein localization to bicellular tight junction","BP","keyword",NA
+"GO:1902575","protein localization to cell division site involved in cytokinesis, actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:1903476","protein localization to cell division site involved in mitotic actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:1904108","protein localization to ciliary inversin compartment","BP","keyword",NA
+"GO:1903441","protein localization to ciliary membrane","BP","keyword",NA
+"GO:1904491","protein localization to ciliary transition zone","BP","keyword",NA
+"GO:0061512","protein localization to cilium","BP","keyword",NA
+"GO:1902441","protein localization to meiotic spindle pole body","BP","offspring",NA
+"GO:1904498","protein localization to mitotic actomyosin contractile ring","BP","keyword",NA
+"GO:0120229","protein localization to motile cilium","BP","keyword",NA
+"GO:0097499","protein localization to non-motile cilium","BP","keyword",NA
+"GO:1903621","protein localization to photoreceptor connecting cilium","BP","keyword",NA
+"GO:0061833","protein localization to tricellular tight junction","BP","keyword",NA
+"GO:1903445","protein transport from ciliary membrane to plasma membrane","BP","keyword",NA
+"GO:1904601","protein transport to mating projection actin fusion focus","BP","keyword",NA
+"GO:0090126","protein-containing complex assembly involved in synapse maturation","BP","offspring",NA
+"GO:0072158","proximal tubule morphogenesis","BP","offspring",NA
+"GO:0031269","pseudopodium assembly","BP","offspring",NA
+"GO:0061155","pulmonary artery endothelial tube morphogenesis","BP","offspring",NA
+"GO:0010245","radial microtubular system formation","BP","offspring",NA
+"GO:0062177","radial spoke assembly","BP","offspring",NA
+"GO:0097500","receptor localization to non-motile cilium","BP","keyword",NA
+"GO:1904717","regulation of AMPA glutamate receptor clustering","BP","offspring",NA
+"GO:0032012","regulation of ARF protein signal transduction","BP","offspring",NA
+"GO:0034315","regulation of Arp2/3 complex-mediated actin nucleation","BP","offspring",NA
+"GO:2001284","regulation of BMP secretion","BP","keyword",NA
+"GO:0030510","regulation of BMP signaling pathway","BP","broad_pathway,keyword,offspring",NA
+"GO:1900279","regulation of CD4-positive, alpha-beta T cell costimulation","BP","offspring",NA
+"GO:0032489","regulation of Cdc42 protein signal transduction","BP","keyword,offspring",NA
+"GO:1901184","regulation of ERBB signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1905578","regulation of ERBB3 signaling pathway","BP","broad_pathway",NA
+"GO:0048214","regulation of Golgi vesicle fusion to target membrane","BP","keyword",NA
+"GO:0035297","regulation of Malpighian tubule diameter","BP","offspring",NA
+"GO:0035298","regulation of Malpighian tubule size","BP","offspring",NA
+"GO:0008593","regulation of Notch signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1902366","regulation of Notch signaling pathway involved in somitogenesis","BP","broad_pathway,keyword",NA
+"GO:0032483","regulation of Rab protein signal transduction","BP","offspring",NA
+"GO:0035020","regulation of Rac protein signal transduction","BP","offspring",NA
+"GO:0032485","regulation of Ral protein signal transduction","BP","offspring",NA
+"GO:0032487","regulation of Rap protein signal transduction","BP","offspring",NA
+"GO:0046578","regulation of Ras protein signal transduction","BP","offspring",NA
+"GO:0035023","regulation of Rho protein signal transduction","BP","offspring,seed",NA
+"GO:0060390","regulation of SMAD protein signal transduction","BP","keyword",NA
+"GO:0014038","regulation of Schwann cell differentiation","BP","offspring",NA
+"GO:2000523","regulation of T cell costimulation","BP","offspring",NA
+"GO:0061356","regulation of Wnt protein secretion","BP","keyword",NA
+"GO:0030111","regulation of Wnt signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0003307","regulation of Wnt signaling pathway involved in heart development","BP","broad_pathway,keyword",NA
+"GO:0008591","regulation of Wnt signaling pathway, calcium modulating pathway","BP","broad_pathway,keyword",NA
+"GO:2000095","regulation of Wnt signaling pathway, planar cell polarity pathway","BP","broad_pathway,keyword,offspring",NA
+"GO:1904711","regulation of Wnt-Frizzled-LRP5/6 complex assembly","BP","keyword",NA
+"GO:0032956","regulation of actin cytoskeleton organization","BP","offspring",NA
+"GO:0090138","regulation of actin cytoskeleton organization by cell-cell adhesion","BP","offspring",NA
+"GO:0110054","regulation of actin filament annealing","BP","offspring",NA
+"GO:0032231","regulation of actin filament bundle assembly","BP","offspring",NA
+"GO:0030834","regulation of actin filament depolymerization","BP","offspring",NA
+"GO:0030832","regulation of actin filament length","BP","offspring",NA
+"GO:0110053","regulation of actin filament organization","BP","offspring",NA
+"GO:0030833","regulation of actin filament polymerization","BP","offspring",NA
+"GO:0051125","regulation of actin nucleation","BP","offspring",NA
+"GO:0008064","regulation of actin polymerization or depolymerization","BP","offspring",NA
+"GO:0031991","regulation of actomyosin contractile ring contraction","BP","keyword,offspring",NA
+"GO:0110020","regulation of actomyosin structure organization","BP","keyword,offspring",NA
+"GO:1903391","regulation of adherens junction organization","BP","keyword,offspring",NA
+"GO:0110073","regulation of apical constriction involved in ventral furrow formation","BP","keyword,offspring",NA
+"GO:1902208","regulation of bacterial-type flagellum assembly","BP","offspring",NA
+"GO:2000812","regulation of barbed-end actin filament capping","BP","offspring",NA
+"GO:1904259","regulation of basement membrane assembly involved in embryonic body morphogenesis","BP","keyword,offspring",NA
+"GO:0110011","regulation of basement membrane organization","BP","keyword,offspring",NA
+"GO:0045115","regulation of beta 2 integrin biosynthetic process","BP","keyword",NA
+"GO:2000810","regulation of bicellular tight junction assembly","BP","keyword,offspring",NA
+"GO:1904170","regulation of bleb assembly","BP","offspring",NA
+"GO:1905553","regulation of blood vessel branching","BP","offspring",NA
+"GO:0030710","regulation of border follicle cell delamination","BP","offspring",NA
+"GO:0072095","regulation of branch elongation involved in ureteric bud branching","BP","offspring",NA
+"GO:0061046","regulation of branching involved in lung morphogenesis","BP","offspring",NA
+"GO:0060656","regulation of branching involved in mammary cord morphogenesis by fat precursor cell-epithelial cell signaling","BP","offspring",NA
+"GO:0060762","regulation of branching involved in mammary gland duct morphogenesis","BP","offspring",NA
+"GO:0060687","regulation of branching involved in prostate gland morphogenesis","BP","offspring",NA
+"GO:0060693","regulation of branching involved in salivary gland morphogenesis","BP","offspring",NA
+"GO:0060683","regulation of branching involved in salivary gland morphogenesis by epithelial-mesenchymal signaling","BP","offspring",NA
+"GO:0060668","regulation of branching involved in salivary gland morphogenesis by extracellular matrix-epithelial cell signaling","BP","keyword,offspring",NA
+"GO:0060665","regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling","BP","offspring",NA
+"GO:0090189","regulation of branching involved in ureteric bud morphogenesis","BP","offspring",NA
+"GO:0150037","regulation of calcium-dependent activation of synaptic vesicle fusion","BP","keyword",NA
+"GO:0046586","regulation of calcium-dependent cell-cell adhesion","BP","offspring",NA
+"GO:0051040","regulation of calcium-independent cell-cell adhesion","BP","offspring",NA
+"GO:0060828","regulation of canonical Wnt signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0062042","regulation of cardiac epithelial to mesenchymal transition","BP","offspring",NA
+"GO:1905304","regulation of cardiac myofibril assembly","BP","offspring",NA
+"GO:1905310","regulation of cardiac neural crest cell migration involved in outflow tract morphogenesis","BP","keyword,offspring",NA
+"GO:0033628","regulation of cell adhesion mediated by integrin","BP","keyword",NA
+"GO:1901888","regulation of cell junction assembly","BP","offspring",NA
+"GO:0090249","regulation of cell migration involved in somitogenic axis elongation","BP","keyword",NA
+"GO:1905708","regulation of cell morphogenesis involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:0060491","regulation of cell projection assembly","BP","offspring",NA
+"GO:0008360","regulation of cell shape","BP","seed",NA
+"GO:0022407","regulation of cell-cell adhesion","BP","offspring",NA
+"GO:0070587","regulation of cell-cell adhesion involved in gastrulation","BP","offspring",NA
+"GO:2000047","regulation of cell-cell adhesion mediated by cadherin","BP","keyword,offspring",NA
+"GO:0033632","regulation of cell-cell adhesion mediated by integrin","BP","keyword,offspring",NA
+"GO:0001952","regulation of cell-matrix adhesion","BP","offspring",NA
+"GO:0090109","regulation of cell-substrate junction assembly","BP","offspring",NA
+"GO:0150116","regulation of cell-substrate junction organization","BP","offspring",NA
+"GO:1903722","regulation of centriole elongation","BP","offspring",NA
+"GO:0046599","regulation of centriole replication","BP","offspring",NA
+"GO:0030997","regulation of centriole-centriole cohesion","BP","offspring",NA
+"GO:0046605","regulation of centrosome cycle","BP","offspring",NA
+"GO:0010824","regulation of centrosome duplication","BP","offspring",NA
+"GO:1902017","regulation of cilium assembly","BP","keyword,offspring",NA
+"GO:0003356","regulation of cilium beat frequency","BP","keyword",NA
+"GO:0060296","regulation of cilium beat frequency involved in ciliary motility","BP","keyword",NA
+"GO:0003352","regulation of cilium movement","BP","keyword",NA
+"GO:0060295","regulation of cilium movement involved in cell motility","BP","keyword",NA
+"GO:1902019","regulation of cilium-dependent cell motility","BP","keyword",NA
+"GO:0032965","regulation of collagen biosynthetic process","BP","keyword",NA
+"GO:0010710","regulation of collagen catabolic process","BP","keyword",NA
+"GO:1904026","regulation of collagen fibril organization","BP","keyword,offspring",NA
+"GO:0010712","regulation of collagen metabolic process","BP","keyword",NA
+"GO:0031137","regulation of conjugation with cellular fusion","BP","keyword",NA
+"GO:1901232","regulation of convergent extension involved in axis elongation","BP","keyword,offspring",NA
+"GO:1904103","regulation of convergent extension involved in gastrulation","BP","keyword,offspring",NA
+"GO:1904130","regulation of convergent extension involved in neural plate elongation","BP","keyword,offspring",NA
+"GO:1904136","regulation of convergent extension involved in notochord morphogenesis","BP","keyword,offspring",NA
+"GO:1904133","regulation of convergent extension involved in rhombomere morphogenesis","BP","keyword,offspring",NA
+"GO:1904127","regulation of convergent extension involved in somitogenesis","BP","keyword,offspring",NA
+"GO:2000431","regulation of cytokinesis, actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:0010937","regulation of cytoplasmic microtubule depolymerization","BP","offspring",NA
+"GO:0003427","regulation of cytoskeleton polarization involved in growth plate cartilage chondrocyte division","BP","offspring",NA
+"GO:2000547","regulation of dendritic cell dendrite assembly","BP","offspring",NA
+"GO:1902950","regulation of dendritic spine maintenance","BP","offspring",NA
+"GO:0061001","regulation of dendritic spine morphogenesis","BP","offspring",NA
+"GO:0061389","regulation of direction of cell growth","BP","offspring",NA
+"GO:2000383","regulation of ectoderm development","BP","keyword,offspring",NA
+"GO:0042665","regulation of ectodermal cell fate specification","BP","offspring",NA
+"GO:0016476","regulation of embryonic cell shape","BP","offspring",NA
+"GO:0140049","regulation of endocardial cushion to mesenchymal transition","BP","offspring",NA
+"GO:2000800","regulation of endocardial cushion to mesenchymal transition involved in heart valve formation","BP","offspring",NA
+"GO:1905364","regulation of endosomal vesicle fusion","BP","keyword",NA
+"GO:1904904","regulation of endothelial cell-matrix adhesion via fibronectin","BP","keyword,offspring",NA
+"GO:1901509","regulation of endothelial tube morphogenesis","BP","offspring",NA
+"GO:1901187","regulation of ephrin receptor signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1904086","regulation of epiboly involved in gastrulation with mouth forming second","BP","offspring",NA
+"GO:0060651","regulation of epithelial cell proliferation involved in mammary gland bud elongation","BP","offspring",NA
+"GO:1903681","regulation of epithelial cell-cell adhesion involved in epithelium migration","BP","offspring",NA
+"GO:0010717","regulation of epithelial to mesenchymal transition","BP","offspring",NA
+"GO:1905005","regulation of epithelial to mesenchymal transition involved in endocardial cushion formation","BP","offspring",NA
+"GO:1905276","regulation of epithelial tube formation","BP","offspring",NA
+"GO:0034118","regulation of erythrocyte aggregation","BP","offspring",NA
+"GO:0061160","regulation of establishment of bipolar cell polarity regulating cell shape","BP","offspring",NA
+"GO:2000782","regulation of establishment of cell polarity regulating cell shape","BP","offspring",NA
+"GO:0090175","regulation of establishment of planar polarity","BP","offspring",NA
+"GO:0090178","regulation of establishment of planar polarity involved in neural tube closure","BP","keyword,offspring,seed",NA
+"GO:2000100","regulation of establishment or maintenance of bipolar cell polarity regulating cell shape","BP","offspring",NA
+"GO:2000769","regulation of establishment or maintenance of cell polarity regulating cell shape","BP","offspring",NA
+"GO:1904889","regulation of excitatory synapse assembly","BP","offspring",NA
+"GO:1905810","regulation of excitatory synapse pruning","BP","offspring",NA
+"GO:1901201","regulation of extracellular matrix assembly","BP","keyword,offspring",NA
+"GO:0003330","regulation of extracellular matrix constituent secretion","BP","keyword,offspring",NA
+"GO:0010715","regulation of extracellular matrix disassembly","BP","keyword,offspring",NA
+"GO:1903053","regulation of extracellular matrix organization","BP","keyword,offspring",NA
+"GO:0040036","regulation of fibroblast growth factor receptor signaling pathway","BP","offspring",NA
+"GO:2000313","regulation of fibroblast growth factor receptor signaling pathway involved in neural plate anterior/posterior pattern formation","BP","keyword,offspring",NA
+"GO:2000702","regulation of fibroblast growth factor receptor signaling pathway involved in ureteric bud formation","BP","offspring",NA
+"GO:2000413","regulation of fibronectin-dependent thymocyte migration","BP","keyword",NA
+"GO:0051489","regulation of filopodium assembly","BP","offspring",NA
+"GO:0060256","regulation of flocculation","BP","offspring",NA
+"GO:0051893","regulation of focal adhesion assembly","BP","keyword,offspring",NA
+"GO:0120182","regulation of focal adhesion disassembly","BP","keyword,offspring",NA
+"GO:0090337","regulation of formin-nucleated actin cable assembly","BP","keyword,offspring",NA
+"GO:0043012","regulation of fusion of sperm to egg plasma membrane","BP","keyword",NA
+"GO:1903913","regulation of fusion of virus membrane with host plasma membrane","BP","keyword",NA
+"GO:1903596","regulation of gap junction assembly","BP","offspring",NA
+"GO:2000733","regulation of glial cell-derived neurotrophic factor receptor signaling pathway involved in ureteric bud formation","BP","offspring",NA
+"GO:0106104","regulation of glutamate receptor clustering","BP","offspring",NA
+"GO:1901207","regulation of heart looping","BP","offspring",NA
+"GO:0034114","regulation of heterotypic cell-cell adhesion","BP","offspring",NA
+"GO:0035330","regulation of hippo signaling","BP","keyword",NA
+"GO:1903385","regulation of homophilic cell adhesion","BP","offspring",NA
+"GO:0034110","regulation of homotypic cell-cell adhesion","BP","offspring",NA
+"GO:1905702","regulation of inhibitory synapse assembly","BP","offspring",NA
+"GO:0031384","regulation of initiation of mating projection growth","BP","offspring",NA
+"GO:0033623","regulation of integrin activation","BP","keyword",NA
+"GO:0045113","regulation of integrin biosynthetic process","BP","keyword",NA
+"GO:2001044","regulation of integrin-mediated signaling pathway","BP","keyword",NA
+"GO:1905796","regulation of intraciliary anterograde transport","BP","offspring",NA
+"GO:1905799","regulation of intraciliary retrograde transport","BP","offspring",NA
+"GO:0010591","regulation of lamellipodium assembly","BP","offspring",NA
+"GO:1904997","regulation of leukocyte adhesion to arterial endothelial cell","BP","offspring",NA
+"GO:1904994","regulation of leukocyte adhesion to vascular endothelial cell","BP","offspring",NA
+"GO:1903037","regulation of leukocyte cell-cell adhesion","BP","offspring",NA
+"GO:1903236","regulation of leukocyte tethering or rolling","BP","offspring",NA
+"GO:0034239","regulation of macrophage fusion","BP","keyword",NA
+"GO:2000115","regulation of maintenance of bipolar cell polarity regulating cell shape","BP","offspring",NA
+"GO:0060657","regulation of mammary gland cord elongation by mammary fat precursor cell-epithelial cell signaling","BP","offspring",NA
+"GO:0031383","regulation of mating projection assembly","BP","offspring",NA
+"GO:1902119","regulation of meiotic spindle elongation","BP","offspring",NA
+"GO:0003339","regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis","BP","offspring",NA
+"GO:1900238","regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway","BP","broad_pathway",NA
+"GO:0150101","regulation of microtubule anchoring at centrosome","BP","offspring",NA
+"GO:0070507","regulation of microtubule cytoskeleton organization","BP","offspring",NA
+"GO:0031114","regulation of microtubule depolymerization","BP","offspring",NA
+"GO:0010968","regulation of microtubule nucleation","BP","offspring",NA
+"GO:0031113","regulation of microtubule polymerization","BP","offspring",NA
+"GO:0031110","regulation of microtubule polymerization or depolymerization","BP","offspring",NA
+"GO:0032534","regulation of microvillus assembly","BP","offspring",NA
+"GO:0010635","regulation of mitochondrial fusion","BP","keyword",NA
+"GO:1903499","regulation of mitotic actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:1903471","regulation of mitotic actomyosin contractile ring contraction","BP","keyword,offspring",NA
+"GO:0046602","regulation of mitotic centrosome separation","BP","offspring",NA
+"GO:1901673","regulation of mitotic spindle assembly","BP","offspring",NA
+"GO:1904686","regulation of mitotic spindle disassembly","BP","offspring",NA
+"GO:0032888","regulation of mitotic spindle elongation","BP","offspring",NA
+"GO:0110162","regulation of mitotic spindle elongation (spindle phase three)","BP","offspring",NA
+"GO:0110159","regulation of mitotic spindle formation (spindle phase one)","BP","offspring",NA
+"GO:0060236","regulation of mitotic spindle organization","BP","offspring",NA
+"GO:0010695","regulation of mitotic spindle pole body separation","BP","offspring",NA
+"GO:1905274","regulation of modification of postsynaptic actin cytoskeleton","BP","offspring",NA
+"GO:0099159","regulation of modification of postsynaptic structure","BP","offspring",NA
+"GO:0098987","regulation of modification of synapse structure, modulating synaptic transmission","BP","offspring",NA
+"GO:1905244","regulation of modification of synaptic structure","BP","offspring",NA
+"GO:1900623","regulation of monocyte aggregation","BP","offspring",NA
+"GO:1905330","regulation of morphogenesis of an epithelium","BP","offspring",NA
+"GO:1905503","regulation of motile cilium assembly","BP","keyword,offspring",NA
+"GO:1901739","regulation of myoblast fusion","BP","keyword",NA
+"GO:0043520","regulation of myosin II filament assembly","BP","offspring",NA
+"GO:0043521","regulation of myosin II filament disassembly","BP","offspring",NA
+"GO:0043519","regulation of myosin II filament organization","BP","offspring",NA
+"GO:1902841","regulation of netrin-activated signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1905292","regulation of neural crest cell differentiation","BP","keyword,offspring",NA
+"GO:1905295","regulation of neural crest cell fate specification","BP","keyword,offspring",NA
+"GO:0090299","regulation of neural crest formation","BP","keyword,offspring",NA
+"GO:1904396","regulation of neuromuscular junction development","BP","offspring",NA
+"GO:2000428","regulation of neutrophil aggregation","BP","offspring",NA
+"GO:2000050","regulation of non-canonical Wnt signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1902855","regulation of non-motile cilium assembly","BP","keyword,offspring",NA
+"GO:1902838","regulation of nuclear migration along microtubule","BP","keyword,offspring",NA
+"GO:1902852","regulation of nuclear migration during mitotic telophase","BP","keyword,offspring",NA
+"GO:1904118","regulation of otic vesicle morphogenesis","BP","offspring",NA
+"GO:0048345","regulation of paraxial mesodermal cell fate determination","BP","offspring",NA
+"GO:0048349","regulation of paraxial mesodermal cell fate specification","BP","offspring",NA
+"GO:0010969","regulation of pheromone-dependent signal transduction involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:2000694","regulation of phragmoplast microtubule organization","BP","offspring",NA
+"GO:0120032","regulation of plasma membrane bounded cell projection assembly","BP","offspring",NA
+"GO:0090330","regulation of platelet aggregation","BP","offspring",NA
+"GO:0160017","regulation of platelet rolling","BP","offspring",NA
+"GO:0030860","regulation of polarized epithelial cell differentiation","BP","offspring",NA
+"GO:0150052","regulation of postsynapse assembly","BP","offspring",NA
+"GO:0099175","regulation of postsynapse organization","BP","offspring",NA
+"GO:0099151","regulation of postsynaptic density assembly","BP","offspring",NA
+"GO:1905874","regulation of postsynaptic density organization","BP","offspring",NA
+"GO:1902897","regulation of postsynaptic density protein 95 clustering","BP","offspring",NA
+"GO:1901626","regulation of postsynaptic membrane organization","BP","offspring",NA
+"GO:0099150","regulation of postsynaptic specialization assembly","BP","offspring",NA
+"GO:0072043","regulation of pre-tubular aggregate formation by cell-cell signaling","BP","offspring",NA
+"GO:1905606","regulation of presynapse assembly","BP","offspring",NA
+"GO:0099174","regulation of presynapse organization","BP","offspring",NA
+"GO:1905518","regulation of presynaptic active zone assembly","BP","offspring",NA
+"GO:1901629","regulation of presynaptic membrane organization","BP","offspring",NA
+"GO:0060685","regulation of prostatic bud formation","BP","offspring",NA
+"GO:1904702","regulation of protein localization to adherens junction","BP","keyword",NA
+"GO:0110082","regulation of protein localization to cell division site involved in mitotic actomyosin contractile ring assembly","BP","keyword,offspring",NA
+"GO:1903567","regulation of protein localization to ciliary membrane","BP","keyword",NA
+"GO:1903564","regulation of protein localization to cilium","BP","keyword",NA
+"GO:0140433","regulation of protein localization to meiotic spindle pole body","BP","offspring",NA
+"GO:0031272","regulation of pseudopodium assembly","BP","offspring",NA
+"GO:1900052","regulation of retinoic acid biosynthetic process","BP","keyword,offspring",NA
+"GO:0048385","regulation of retinoic acid receptor signaling pathway","BP","broad_pathway,keyword,offspring",NA
+"GO:1900027","regulation of ruffle assembly","BP","offspring",NA
+"GO:0060297","regulation of sarcomere organization","BP","offspring",NA
+"GO:2001260","regulation of semaphorin-plexin signaling pathway","BP","broad_pathway,keyword",NA
+"GO:0031029","regulation of septation initiation signaling","BP","offspring",NA
+"GO:0060238","regulation of signal transduction involved in conjugation with cellular fusion","BP","keyword",NA
+"GO:1904393","regulation of skeletal muscle acetylcholine-gated channel clustering","BP","offspring",NA
+"GO:0051056","regulation of small GTPase mediated signal transduction","BP","seed",NA
+"GO:2000097","regulation of smooth muscle cell-matrix adhesion","BP","offspring",NA
+"GO:0008589","regulation of smoothened signaling pathway","BP","offspring",NA
+"GO:1901620","regulation of smoothened signaling pathway involved in dorsal/ventral neural tube patterning","BP","offspring",NA
+"GO:0014807","regulation of somitogenesis","BP","keyword",NA
+"GO:0090169","regulation of spindle assembly","BP","offspring",NA
+"GO:0032887","regulation of spindle elongation","BP","offspring",NA
+"GO:0090224","regulation of spindle organization","BP","offspring",NA
+"GO:0051492","regulation of stress fiber assembly","BP","offspring",NA
+"GO:0051963","regulation of synapse assembly","BP","offspring",NA
+"GO:0090128","regulation of synapse maturation","BP","offspring",NA
+"GO:0050807","regulation of synapse organization","BP","offspring",NA
+"GO:1905806","regulation of synapse pruning","BP","offspring",NA
+"GO:0051823","regulation of synapse structural plasticity","BP","offspring",NA
+"GO:0008582","regulation of synaptic assembly at neuromuscular junction","BP","offspring",NA
+"GO:0099179","regulation of synaptic membrane adhesion","BP","offspring",NA
+"GO:0031630","regulation of synaptic vesicle fusion to presynaptic active zone membrane","BP","keyword",NA
+"GO:0060142","regulation of syncytium formation by plasma membrane fusion","BP","keyword",NA
+"GO:2000331","regulation of terminal button organization","BP","offspring",NA
+"GO:0031385","regulation of termination of mating projection growth","BP","offspring",NA
+"GO:2000398","regulation of thymocyte aggregation","BP","offspring",NA
+"GO:1905073","regulation of tight junction disassembly","BP","keyword,offspring",NA
+"GO:1903656","regulation of type IV pilus biogenesis","BP","offspring",NA
+"GO:0072106","regulation of ureteric bud formation","BP","offspring",NA
+"GO:0032889","regulation of vacuole fusion, non-autophagic","BP","keyword",NA
+"GO:0031338","regulation of vesicle fusion","BP","keyword",NA
+"GO:0106214","regulation of vesicle fusion with Golgi apparatus","BP","keyword",NA
+"GO:1901738","regulation of vitamin A metabolic process","BP","offspring",NA
+"GO:1903689","regulation of wound healing, spreading of epidermal cells","BP","offspring",NA
+"GO:0061333","renal tubule morphogenesis","BP","offspring",NA
+"GO:0072033","renal vesicle formation","BP","offspring",NA
+"GO:0072034","renal vesicle induction","BP","offspring",NA
+"GO:0072077","renal vesicle morphogenesis","BP","offspring",NA
+"GO:0071772","response to BMP","BP","keyword",NA
+"GO:1904391","response to ciliary neurotrophic factor","BP","keyword",NA
+"GO:0000749","response to pheromone triggering conjugation with cellular fusion","BP","keyword",NA
+"GO:0032526","response to retinoic acid","BP","keyword",NA
+"GO:0106434","retinal isomerization","BP","offspring",NA
+"GO:0042574","retinal metabolic process","BP","offspring",NA
+"GO:0002138","retinoic acid biosynthetic process","BP","keyword,offspring,seed",NA
+"GO:0034653","retinoic acid catabolic process","BP","keyword,offspring",NA
+"GO:0042573","retinoic acid metabolic process","BP","keyword,offspring,seed",NA
+"GO:0021911","retinoic acid metabolic process in spinal cord anterior-posterior patterning","BP","keyword,offspring",NA
+"GO:0048384","retinoic acid receptor signaling pathway","BP","broad_pathway,keyword,seed",NA
+"GO:0001523","retinoid metabolic process","BP","keyword,seed",NA
+"GO:0042572","retinol metabolic process","BP","offspring",NA
+"GO:0021509","roof plate formation","BP","keyword,offspring,seed",NA
+"GO:0021903","rostrocaudal neural tube patterning","BP","offspring",NA
+"GO:0097178","ruffle assembly","BP","offspring",NA
+"GO:0045214","sarcomere organization","BP","offspring",NA
+"GO:0048769","sarcomerogenesis","BP","offspring",NA
+"GO:0007429","secondary branching, open tracheal system","BP","offspring",NA
+"GO:0014021","secondary neural tube formation","BP","offspring",NA
+"GO:0160156","secretory granule-lysosome fusion","BP","keyword",NA
+"GO:0071526","semaphorin-plexin signaling pathway","BP","broad_pathway,keyword",NA
+"GO:1902287","semaphorin-plexin signaling pathway involved in axon guidance","BP","broad_pathway,keyword",NA
+"GO:1900220","semaphorin-plexin signaling pathway involved in bone trabecula morphogenesis","BP","broad_pathway,keyword",NA
+"GO:1902286","semaphorin-plexin signaling pathway involved in dendrite guidance","BP","broad_pathway,keyword",NA
+"GO:1902285","semaphorin-plexin signaling pathway involved in neuron projection guidance","BP","broad_pathway,keyword",NA
+"GO:0071527","semaphorin-plexin signaling pathway involved in outflow tract morphogenesis","BP","broad_pathway,keyword",NA
+"GO:2000305","semaphorin-plexin signaling pathway involved in regulation of photoreceptor cell axon guidance","BP","broad_pathway,keyword",NA
+"GO:0060879","semicircular canal fusion","BP","keyword",NA
+"GO:0019991","septate junction assembly","BP","offspring",NA
+"GO:0038098","sequestering of BMP from receptor via BMP binding","BP","keyword,offspring",NA
+"GO:0035582","sequestering of BMP in extracellular matrix","BP","keyword,offspring",NA
+"GO:0035583","sequestering of TGFbeta in extracellular matrix","BP","keyword",NA
+"GO:0032005","signal transduction involved in positive regulation of conjugation with cellular fusion","BP","keyword",NA
+"GO:0071340","skeletal muscle acetylcholine-gated channel clustering","BP","offspring",NA
+"GO:0030241","skeletal muscle myosin thick filament assembly","BP","offspring",NA
+"GO:0030240","skeletal muscle thin filament assembly","BP","offspring",NA
+"GO:0014866","skeletal myofibril assembly","BP","offspring",NA
+"GO:0036060","slit diaphragm assembly","BP","keyword,offspring",NA
+"GO:0061302","smooth muscle cell-matrix adhesion","BP","offspring",NA
+"GO:0090528","smooth septate junction assembly","BP","offspring",NA
+"GO:0007224","smoothened signaling pathway","BP","seed",NA
+"GO:0060831","smoothened signaling pathway involved in dorsal/ventral neural tube patterning","BP","offspring",NA
+"GO:0060506","smoothened signaling pathway involved in lung development","BP","offspring",NA
+"GO:0021938","smoothened signaling pathway involved in regulation of cerebellar granule cell precursor cell proliferation","BP","offspring",NA
+"GO:0003271","smoothened signaling pathway involved in regulation of secondary heart field cardioblast proliferation","BP","offspring",NA
+"GO:0021776","smoothened signaling pathway involved in spinal cord motor neuron cell fate specification","BP","offspring",NA
+"GO:0021775","smoothened signaling pathway involved in ventral spinal cord interneuron specification","BP","offspring",NA
+"GO:0021910","smoothened signaling pathway involved in ventral spinal cord patterning","BP","offspring",NA
+"GO:0001756","somitogenesis","BP","keyword",NA
+"GO:0072168","specification of anterior mesonephric tubule identity","BP","offspring",NA
+"GO:0072085","specification of connecting tubule identity","BP","offspring",NA
+"GO:0072084","specification of distal tubule identity","BP","offspring",NA
+"GO:0072086","specification of loop of Henle identity","BP","offspring",NA
+"GO:0061281","specification of mesonephric connecting tubule identity","BP","offspring",NA
+"GO:0061283","specification of mesonephric distal tubule identity","BP","offspring",NA
+"GO:0061282","specification of mesonephric nephron tubule identity","BP","offspring",NA
+"GO:0061284","specification of mesonephric proximal tubule identity","BP","offspring",NA
+"GO:0072167","specification of mesonephric tubule identity","BP","offspring",NA
+"GO:0072294","specification of metanephric connecting tubule identity","BP","offspring",NA
+"GO:0072295","specification of metanephric distal tubule identity","BP","offspring",NA
+"GO:0072296","specification of metanephric loop of Henle identity","BP","offspring",NA
+"GO:0072293","specification of metanephric nephron tubule identity","BP","offspring",NA
+"GO:0072297","specification of metanephric proximal tubule identity","BP","offspring",NA
+"GO:0072081","specification of nephron tubule identity","BP","offspring",NA
+"GO:0072169","specification of posterior mesonephric tubule identity","BP","offspring",NA
+"GO:0039010","specification of pronephric distal tubule identity","BP","offspring",NA
+"GO:0039004","specification of pronephric proximal tubule identity","BP","offspring",NA
+"GO:0039005","specification of pronephric tubule identity","BP","offspring",NA
+"GO:0072082","specification of proximal tubule identity","BP","offspring",NA
+"GO:0035044","sperm aster formation","BP","offspring",NA
+"GO:0007288","sperm axoneme assembly","BP","keyword,offspring",NA
+"GO:0120316","sperm flagellum assembly","BP","offspring",NA
+"GO:0120317","sperm mitochondrial sheath assembly","BP","offspring",NA
+"GO:0051225","spindle assembly","BP","offspring",NA
+"GO:0007056","spindle assembly involved in female meiosis","BP","offspring",NA
+"GO:0007057","spindle assembly involved in female meiosis I","BP","offspring",NA
+"GO:0007058","spindle assembly involved in female meiosis II","BP","offspring",NA
+"GO:0007053","spindle assembly involved in male meiosis","BP","offspring",NA
+"GO:0007054","spindle assembly involved in male meiosis I","BP","offspring",NA
+"GO:0007055","spindle assembly involved in male meiosis II","BP","offspring",NA
+"GO:0051230","spindle disassembly","BP","offspring",NA
+"GO:0051231","spindle elongation","BP","offspring",NA
+"GO:0051255","spindle midzone assembly","BP","offspring",NA
+"GO:0007051","spindle organization","BP","offspring",NA
+"GO:0030474","spindle pole body duplication","BP","offspring",NA
+"GO:0051300","spindle pole body organization","BP","offspring",NA
+"GO:0110100","spindle pole body separation","BP","offspring",NA
+"GO:0043149","stress fiber assembly","BP","offspring",NA
+"GO:1990046","stress-induced mitochondrial fusion","BP","keyword",NA
+"GO:0071688","striated muscle myosin thick filament assembly","BP","offspring",NA
+"GO:0061203","striated muscle paramyosin thick filament assembly","BP","offspring",NA
+"GO:0006930","substrate-dependent cell migration, cell extension","BP","offspring",NA
+"GO:0007396","suture of dorsal opening","BP","offspring",NA
+"GO:0141066","symbiont-mediated disruption of host extracellular matrix","BP","keyword",NA
+"GO:0141029","symbiont-mediated disruption of host focal adhesion","BP","keyword",NA
+"GO:0141127","symbiont-mediated perturbation of host Rab small GTPase signal transduction","BP","offspring",NA
+"GO:0044083","symbiont-mediated perturbation of host Rho small GTPase signal transduction","BP","offspring",NA
+"GO:0044082","symbiont-mediated perturbation of host small GTPase-mediated signal transduction","BP","offspring",NA
+"GO:0007416","synapse assembly","BP","offspring",NA
+"GO:0060386","synapse assembly involved in innervation","BP","offspring",NA
+"GO:0060074","synapse maturation","BP","offspring",NA
+"GO:0050808","synapse organization","BP","offspring",NA
+"GO:0098883","synapse pruning","BP","offspring",NA
+"GO:0051124","synaptic assembly at neuromuscular junction","BP","offspring",NA
+"GO:0099560","synaptic membrane adhesion","BP","offspring",NA
+"GO:0099561","synaptic membrane adhesion to extracellular matrix","BP","keyword,offspring",NA
+"GO:0031629","synaptic vesicle fusion to presynaptic active zone membrane","BP","keyword",NA
+"GO:0016189","synaptic vesicle to endosome fusion","BP","keyword",NA
+"GO:0035190","syncytial nuclear migration","BP","keyword,offspring",NA
+"GO:0000768","syncytium formation by plasma membrane fusion","BP","keyword",NA
+"GO:0007430","terminal branching, open tracheal system","BP","offspring",NA
+"GO:0072553","terminal button organization","BP","offspring",NA
+"GO:1902896","terminal web assembly","BP","offspring",NA
+"GO:0060748","tertiary branching involved in mammary gland duct morphogenesis","BP","offspring",NA
+"GO:0071594","thymocyte aggregation","BP","offspring",NA
+"GO:0097536","thymus epithelium morphogenesis","BP","offspring",NA
+"GO:0120192","tight junction assembly","BP","keyword,offspring",NA
+"GO:1905071","tight junction disassembly","BP","keyword,offspring",NA
+"GO:0120193","tight junction organization","BP","keyword,offspring",NA
+"GO:1990692","trans-Golgi-derived vesicle fusion with Golgi medial cisterna membrane","BP","keyword",NA
+"GO:1904274","tricellular tight junction assembly","BP","keyword,offspring",NA
+"GO:1904275","tricellular tight junction disassembly","BP","keyword,offspring",NA
+"GO:1905499","trichome papilla formation","BP","offspring",NA
+"GO:0060679","trifid subdivision of terminal units involved in ureteric bud branching","BP","offspring",NA
+"GO:0036484","trunk neural crest cell migration","BP","keyword,offspring",NA
+"GO:0035146","tube fusion","BP","keyword,offspring",NA
+"GO:0140623","type I pilus assembly","BP","offspring",NA
+"GO:0043683","type IV pilus assembly","BP","offspring",NA
+"GO:0060677","ureteric bud elongation","BP","offspring",NA
+"GO:0060676","ureteric bud formation","BP","offspring",NA
+"GO:0072092","ureteric bud invasion","BP","offspring",NA
+"GO:0060675","ureteric bud morphogenesis","BP","offspring",NA
+"GO:0034460","uropod assembly","BP","offspring",NA
+"GO:0097576","vacuole fusion","BP","keyword",NA
+"GO:0042144","vacuole fusion, non-autophagic","BP","keyword",NA
+"GO:0036486","ventral trunk neural crest cell migration","BP","keyword,offspring",NA
+"GO:0055005","ventricular cardiac myofibril assembly","BP","offspring",NA
+"GO:0006906","vesicle fusion","BP","keyword",NA
+"GO:0099500","vesicle fusion to plasma membrane","BP","keyword",NA
+"GO:0048280","vesicle fusion with Golgi apparatus","BP","keyword",NA
+"GO:1990670","vesicle fusion with Golgi cis cisterna membrane","BP","keyword",NA
+"GO:1990671","vesicle fusion with Golgi medial cisterna membrane","BP","keyword",NA
+"GO:0048279","vesicle fusion with endoplasmic reticulum","BP","keyword",NA
+"GO:1990668","vesicle fusion with endoplasmic reticulum-Golgi intermediate compartment (ERGIC) membrane","BP","keyword",NA
+"GO:0007086","vesicle fusion with nuclear membrane involved in mitotic nuclear envelope reassembly","BP","keyword",NA
+"GO:0019817","vesicle fusion with peroxisome","BP","keyword",NA
+"GO:0051469","vesicle fusion with vacuole","BP","keyword",NA
+"GO:0061782","vesicle fusion with vesicle","BP","keyword",NA
+"GO:0097712","vesicle targeting, trans-Golgi to periciliary membrane compartment","BP","offspring",NA
+"GO:0035238","vitamin A biosynthetic process","BP","offspring",NA
+"GO:0006776","vitamin A metabolic process","BP","offspring",NA
+"GO:0030704","vitelline membrane formation","BP","offspring",NA
+"GO:0007305","vitelline membrane formation involved in chorion-containing eggshell formation","BP","offspring",NA
+"GO:0044319","wound healing, spreading of cells","BP","offspring",NA
+"GO:0035313","wound healing, spreading of epidermal cells","BP","offspring",NA
+"GO:0022006","zona limitans intrathalamica formation","BP","offspring",NA
+"GO:0045186","zonula adherens assembly","BP","offspring",NA
+"GO:0045218","zonula adherens maintenance","BP","offspring",NA

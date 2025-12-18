@@ -1,0 +1,8 @@
+"GOID","TERM","best_FDR","n_sig","directions","groups","timepoints"
+"GO:0001843","neural tube closure",0.0348441685776542,1,"down","RACI|S12","T5"
+"GO:0006776","vitamin A metabolic process",0.0348441685776542,1,"up","RACI|S12","T5"
+"GO:0048251","elastic fiber assembly",0.0348441685776542,1,"down","RACI|S12","T5"
+"GO:0035025","positive regulation of Rho protein signal transduction",0.0378358581764527,1,"down","CYCL|S12","T3"
+"GO:0001523","retinoid metabolic process",0.03953918495788,1,"up","RACI|S12","T5"
+"GO:0042572","retinol metabolic process",0.0444101769697471,1,"up","RACI|S12","T5"
+"GO:0030241","skeletal muscle myosin thick filament assembly",0.0466153073356619,1,"down","CYCL|S12","T4"
