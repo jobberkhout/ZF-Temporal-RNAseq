@@ -1,3 +1,5 @@
+# Run Pipeline_compare_controls.R first: this script uses the `vsd` object it creates.
+# Paths are relative to the repository root (open ZF-Temporal-RNAseq.Rproj, or setwd() to the repo root).
 # --- Assumes dds and vsd already exist from your DESeq2 workflow ---
 
 library(ggplot2)
@@ -36,9 +38,9 @@ p_lab <- p_pub +
                            size = 3, max.overlaps = 50, seed = 42)
 
 # === Save both plots ===
-ggsave("C:\\Users\\jobbe\\RNAseq_analysis\\Output\\PCA\\PCA_controls_pub.png", p_pub,
+ggsave("Output/PCA/PCA_controls_pub.png", p_pub,
        width = 12, height = 4, dpi = 300)
-ggsave("C:\\Users\\jobbe\\RNAseq_analysis\\Output\\PCA\\PCA_controls_pub_labeled.png", p_lab,
+ggsave("Output/PCA/PCA_controls_pub_labeled.png", p_lab,
        width = 12, height = 4, dpi = 300)
 
 # (Optional) === Plot 3: Convex hull version ===
@@ -53,5 +55,5 @@ p_hull <- ggplot(pca_df, aes(PC1, PC2, color = timepoint_code, shape = vehicle_t
   theme(panel.grid = element_blank(),
         plot.title = element_text(face = "bold", hjust = 0.5))
 
-ggsave("C:\\Users\\jobbe\\RNAseq_analysis\\Output\\PCA\\PCA_controls_pub_hulls.png", p_hull,
+ggsave("Output/PCA/PCA_controls_pub_hulls.png", p_hull,
        width = 12, height = 4, dpi = 300)

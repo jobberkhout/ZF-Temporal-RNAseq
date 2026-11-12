@@ -11,9 +11,10 @@
 # -----------------
 # USER SETTINGS
 # -----------------
-counts_path <- "C:\\Users\\jobbe\\RNAseq_analysis\\ZF_RNA_Raw_Count.txt"
-meta_path   <- "C:\\Users\\jobbe\\RNAseq_analysis\\metadata\\20250520_ZF_RNAseq_metadata_JB.csv"
-out_dir     <- "C:\\Users\\jobbe\\RNAseq_analysis\\Output\\GSVA_NTC"
+# Paths are relative to the repository root (open ZF-Temporal-RNAseq.Rproj, or setwd() to the repo root).
+counts_path <- "ZF_RNA_Raw_Count.txt"
+meta_path   <- "metadata/20250520_ZF_RNAseq_metadata_JB.csv"
+out_dir     <- "Output/GSVA_NTC"
 dir.create(out_dir, showWarnings = FALSE, recursive = TRUE)
 
 # Optionally limit to specific groups, e.g. c("E3","DMSO") or c("CAFF|S1","CYCL|S2")

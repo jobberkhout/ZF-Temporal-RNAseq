@@ -26,8 +26,9 @@ Sys.setenv(R_FGSEA_NPROC = "1")
 set.seed(42)
 library(patchwork)
 # ======= USER SETTINGS =======
-in_dir   <- "C:\\Users\\jobbe\\RNAseq_analysis\\DEGs_NTC"
-out_dir  <- "C:\\Users\\jobbe\\RNAseq_analysis\\Output\\GSEA_NTC"
+# Paths are relative to the repository root (open ZF-Temporal-RNAseq.Rproj, or setwd() to the repo root).
+in_dir   <- "DEGs_NTC"
+out_dir  <- "Output/GSEA_NTC"
 file_pat <- "\\.(tsv|txt|csv)$"
 minGS    <- 5
 maxGS    <- 5000

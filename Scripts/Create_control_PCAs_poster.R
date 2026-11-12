@@ -1,3 +1,5 @@
+# Run Pipeline_compare_controls.R first: this script uses the `vsd` object it creates.
+# Paths are relative to the repository root (open ZF-Temporal-RNAseq.Rproj, or setwd() to the repo root).
 library(ggplot2)
 library(ggrepel)
 library(dplyr)
@@ -76,11 +78,11 @@ p_hull <- ggplot(pca_df, aes(PC1, PC2, color = timepoint_code, shape = vehicle_t
   )
 
 # === Save plots in high resolution ===
-ggsave("C:\\Users\\jobbe\\RNAseq_analysis\\Output\\PCA\\PCA_controls_pub_poster.png", p_pub,
+ggsave("Output/PCA/PCA_controls_pub_poster.png", p_pub,
        width = 48, height = 16, dpi = 600)
 
-ggsave("C:\\Users\\jobbe\\RNAseq_analysis\\Output\\PCA\\PCA_controls_pub_labeled_poster.png", p_lab,
+ggsave("Output/PCA/PCA_controls_pub_labeled_poster.png", p_lab,
        width = 48, height = 16, dpi = 600)
 
-ggsave("C:\\Users\\jobbe\\RNAseq_analysis\\Output\\PCA\\PCA_controls_pub_hulls_poster.png", p_hull,
+ggsave("Output/PCA/PCA_controls_pub_hulls_poster.png", p_hull,
        width = 48, height = 16, dpi = 600)

@@ -11,9 +11,10 @@
 # -----------------
 # USER SETTINGS
 # -----------------
-counts_path <- "D:/RNAseq/Raw_data/Job_Raw_Count.txt"
-meta_path   <- "D:/RNAseq/20250520_ZF_RNAseq_metadata_JB.csv"
-out_dir     <- "D:/RNAseq/Focused_GSVA_Selected_GO_NTC"
+# Paths are relative to the repository root (open ZF-Temporal-RNAseq.Rproj, or setwd() to the repo root).
+counts_path <- "ZF_RNA_Raw_Count.txt"   # originally run on a local copy named Job_Raw_Count.txt
+meta_path   <- "metadata/20250520_ZF_RNAseq_metadata_JB.csv"
+out_dir     <- "Output/GSVA_NTC_Controls"
 dir.create(out_dir, showWarnings = FALSE, recursive = TRUE)
 
 # What column defines the analysis groups? (vehicle/compound/treatment/…)

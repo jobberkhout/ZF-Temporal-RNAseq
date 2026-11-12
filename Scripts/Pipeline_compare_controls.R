@@ -2,9 +2,10 @@
 # Control-only DESeq2 pipeline (robust, uses ENSEMBL for GO)
 # ================================
 # INPUT:
-#   - counts: E:/RNAseq/Control_only/norm_data_controls_ALL.txt  (genes x samples, rownames=ENSDARG...)
-#   - metadata: E:/RNAseq/20250520_ZF_RNAseq_metadata_JB.csv     (must include: sample_id, vehicle_type, timepoint_code)
-# OUTPUT: E:/RNAseq/Control_only/Output/
+# Paths are relative to the repository root (open ZF-Temporal-RNAseq.Rproj, or setwd() to the repo root).
+#   - counts: norm_data_controls_ALL.txt  (genes x samples, rownames=ENSDARG...)
+#   - metadata: metadata/20250520_ZF_RNAseq_metadata_JB.csv     (must include: sample_id, vehicle_type, timepoint_code)
+# OUTPUT: Output/Control/
 #   - PCA_controls_by_vehicle_time.png
 #   - DE_vehicle_DMSO_vs_E3_<T>.csv         (all genes per timepoint)
 #   - DE_vehicle_DMSO_vs_E3_<T>_sig.csv     (only significant genes)
@@ -21,13 +22,13 @@ suppressPackageStartupMessages({
   library(org.Dr.eg.db)
 })
 
-out_dir <- "C:\\Users\\jobbe\\RNAseq_analysis\\Output\\Control"
+out_dir <- "Output/Control"
 dir.create(out_dir, showWarnings = FALSE, recursive = TRUE)
 
 # ---- Load data ----
-counts <- read.table("C:\\Users\\jobbe\\RNAseq_analysis\\norm_data_controls_ALL.txt",
+counts <- read.table("norm_data_controls_ALL.txt",
                      header = TRUE, row.names = 1, sep = "\t", check.names = FALSE)
-meta <- read.csv("C:\\Users\\jobbe\\RNAseq_analysis\\metadata\\20250520_ZF_RNAseq_metadata_JB.csv", stringsAsFactors = FALSE)
+meta <- read.csv("metadata/20250520_ZF_RNAseq_metadata_JB.csv", stringsAsFactors = FALSE)
 
 # Fix column names in counts to match metadata sample_id
 colnames(counts) <- gsub("^X", "", colnames(counts))
