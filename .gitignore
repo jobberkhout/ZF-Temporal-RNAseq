@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+
+# Written by Scripts/DESeq2_contrasts.R (large; not part of the repository)
+Output/DESeq2/
