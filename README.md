@@ -7,7 +7,7 @@ Gene-level RNA-seq data, analysis scripts and processed results for:
 
 The study profiles whole zebrafish embryos at five stages of neurulation, in controls and after exposure to eight chemicals. It provides a stage-resolved reference for neural tube closure (NTC) and maps how each exposure shifts NTC-related pathway activity over time.
 
-**Raw sequencing reads (FASTQ)** are deposited in BioStudies/ArrayExpress under accession **`E-MTAB-XXXXX`** <!-- TODO (Job): insert accession -->. This repository holds everything downstream of read quantification.
+**Raw sequencing reads (FASTQ)** are being deposited in BioStudies/ArrayExpress; the accession number will be added here. <!-- TODO (Job): replace with "are deposited ... under accession E-MTAB-XXXXX" once the accession is issued --> This repository holds everything downstream of read quantification.
 
 ---
 
